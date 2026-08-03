@@ -4,7 +4,7 @@
     "provider_chain": null,
     "model": "deepseek-chat",
     "base_url": null,
-    "api_key_env": "sk-e24b2f3accbd4b2eb9f36b20b4c0ce3a",
+    "api_key_env": "DEEPSEEK_API_KEY",
     "temperature": 0.3,
     "max_tokens": 8192,
     "throttle_sec": 0.0,
@@ -23,7 +23,7 @@
         "type": "repo_releases",
         "username": null,
         "owner": "YD4223",
-        "repo": "https://github.com/YD4223/aihub",
+        "repo": "YD4223/aihub",
         "enabled": true,
         "category": null,
         "profile": null
@@ -89,14 +89,6 @@
         "profile": null
       },
       {
-        "name": "The Batch",
-        "url": "https://www.deeplearning.ai/the-batch/feed/",
-        "enabled": true,
-        "category": "",
-        "content_extractor": null,
-        "profile": null
-      },
-      {
         "name": "AINews (Buttondown)",
         "url": "https://buttondown.com/ainews/rss",
         "enabled": true,
@@ -153,14 +145,6 @@
         "profile": null
       },
       {
-        "name": "Ars Technica AI",
-        "url": "http://feeds.arstechnica.com/arstechnica/artificial-intelligence",
-        "enabled": true,
-        "category": "",
-        "content_extractor": null,
-        "profile": null
-      },
-      {
         "name": "The Economist",
         "url": "https://www.economist.com/latest/rss.xml",
         "enabled": true,
@@ -187,14 +171,6 @@
       {
         "name": "BBC Learning English",
         "url": "http://www.bbc.co.uk/learningenglish/english/features/6-minute-english/rss",
-        "enabled": true,
-        "category": "",
-        "content_extractor": null,
-        "profile": null
-      },
-      {
-        "name": "Anthropic Research",
-        "url": "https://www.anthropic.com/research/rss",
         "enabled": true,
         "category": "",
         "content_extractor": null,
