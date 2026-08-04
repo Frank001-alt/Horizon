@@ -5,362 +5,342 @@ date: 2026-08-04
 lang: en
 ---
 
-> From 39 items, 18 important content pieces were selected
+> From 47 items, 16 important content pieces were selected
 
 ---
 
 **Technology News**
-1. [Qwen 3.8-Max Released: 2.4T Parameters, First Open-Sourced Max-Level Model](#item-tech-news-1) ⭐️ 9.0/10
-2. [OpenAI highlights ten AI-driven advances in mathematics and theoretical computer science](#item-tech-news-2) ⭐️ 8.0/10
-3. [ComfyUI Adds Day-0 Support for Open-Weight MiniMax H3, 2K Video and Audio](#item-tech-news-3) ⭐️ 8.0/10
-4. [DNA device flaw could let hackers alter 30 years of U.S. forensic evidence](#item-tech-news-4) ⭐️ 8.0/10
-5. [Nvidia CMP 170HX Mining Card Hack Unlocks 80GB VRAM, Prices Soar](#item-tech-news-5) ⭐️ 8.0/10
-6. [Apple Sues UK Over iCloud Backdoor Order](#item-tech-news-6) ⭐️ 8.0/10
-7. [LLMs reward expertise, not just democratize skill](#item-tech-news-7) ⭐️ 7.0/10
-8. [Andy Pavlo joins ClickHouse to launch ClickHouse Labs](#item-tech-news-8) ⭐️ 7.0/10
-9. [Bonsai: OCaml UI library from Jane Street sparks ecosystem debate](#item-tech-news-9) ⭐️ 7.0/10
-10. [Kimi K3 Architecture Deep Dive](#item-tech-news-10) ⭐️ 7.0/10
-11. [Desk reject papers without reproducible code, says ML reviewer](#item-tech-news-11) ⭐️ 7.0/10
-12. [ARPL Auto-Configures llama.cpp for ARM Chips at Runtime](#item-tech-news-12) ⭐️ 7.0/10
+1. [LLMs reward expertise](#item-tech-news-1) ⭐️ 8.0/10
+2. [OpenAI Highlights Ten AI Advances in Mathematics](#item-tech-news-2) ⭐️ 8.0/10
+3. [MiniMax H3 in ComfyUI: Open Weights, Native Audio, 2K Video](#item-tech-news-3) ⭐️ 8.0/10
+4. [Kimi K3 Architecture: Compressed Memory, Attention Across Depth, Latent Expert Routing](#item-tech-news-4) ⭐️ 8.0/10
+5. [DNA Analysis Flaw Puts Decades of U.S. Crime Lab Evidence at Risk](#item-tech-news-5) ⭐️ 8.0/10
+6. [Andy Pavlo joins ClickHouse to establish ClickHouse Labs](#item-tech-news-6) ⭐️ 7.0/10
+7. [Pandoc&\#x27;s Creator Reflects on Twenty Years of Universal Document Conversion](#item-tech-news-7) ⭐️ 7.0/10
+8. [Jane Street&\#x27;s Bonsai brings OCaml to full-stack UI development](#item-tech-news-8) ⭐️ 7.0/10
+9. [Police Accused of Using License Plate Cameras to Spy on Exes](#item-tech-news-9) ⭐️ 7.0/10
+10. [Nvidia CMP 170HX Crack Unlocks 80GB VRAM, Used Prices Spike](#item-tech-news-10) ⭐️ 7.0/10
+11. [Apple sues UK over iCloud backdoor order](#item-tech-news-11) ⭐️ 7.0/10
 
 **Financial News**
-1. [California diesel prices jump since Iran war began, raising risk of higher U.S. goods costs](#item-finance-news-1) ⭐️ 8.0/10
-2. [Visa to Buy BioCatch for $2.4 Billion to Strengthen Fraud Detection](#item-finance-news-2) ⭐️ 8.0/10
-3. [Japan and US reportedly intervene jointly to stem yen&\#x27;s slide to 40-year low](#item-finance-news-3) ⭐️ 8.0/10
-4. [China’s domestic tourism downturn deepens while inbound luxury travel grows](#item-finance-news-4) ⭐️ 7.0/10
-5. [CXMT Seeks Funding for Second Beijing Chip Fab, Reuters Says](#item-finance-news-5) ⭐️ 7.0/10
-6. [Samsung shrinks China phone stores with monthly sales threshold](#item-finance-news-6) ⭐️ 7.0/10
+1. [California diesel prices jump to $6.92, raising risks of higher goods prices nationwide](#item-finance-news-1) ⭐️ 8.0/10
+2. [Visa to buy fraud-detection firm BioCatch for $2.4 billion](#item-finance-news-2) ⭐️ 8.0/10
+3. [China&\#x27;s domestic tourism slowdown hits hotel demand](#item-finance-news-3) ⭐️ 8.0/10
+4. [Drugmaker merger talks and S&amp;P 500 addition drive premarket moves](#item-finance-news-4) ⭐️ 7.0/10
+5. [CXMT in Early Talks for Second DRAM Chip Fab in Beijing](#item-finance-news-5) ⭐️ 7.0/10
 
 ---
 
 ## Technology News
 
 <a id="item-tech-news-1"></a>
-### [Qwen 3.8-Max Released: 2.4T Parameters, First Open-Sourced Max-Level Model](https://qwen.ai/blog?id=qwen3.8) ⭐️ 9.0/10
+### [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 8.0/10
 
-The Qwen team today officially released Qwen 3.8-Max, a 2.4-trillion-parameter model with 95 billion active parameters, making it the strongest model in the Qwen family. The model weights are scheduled to be open-sourced next week, marking the first time Qwen has opened weights for a Max-level model. Built on the Qwen 3.5 architecture, it delivers broad improvements in coding, work, research, and long-horizon tasks. In coding tests, the model can autonomously run for over 10 days to complete project construction and self-evolution, and within 24 hours it entered the WWW2025 multimodal dialogue intent recognition competition, outperforming 458 of 526 teams. Qwen 3.8-Max is now available via the QwenCloud API.
+An essay titled &quot;LLMs reward expertise,&quot; published on seangoedecke.com and submitted to Hacker News, argues that large language models amplify the skills of experienced engineers while exposing gaps for novices, rather than leveling the playing field. The piece emphasizes that domain expertise remains central to getting useful results from AI coding tools, since experts are better positioned to evaluate, refine, and integrate AI-generated code. The argument sparked substantial discussion on Hacker News, with commenters sharing personal experiments and analogies about using LLMs as an extension of one&\#x27;s mind versus a replacement for it. For developers and AI practitioners, the essay offers practical insight into why LLM outcomes can vary so strongly based on the user&\#x27;s existing knowledge.
 
-telegram · zaihuapd · Aug 3, 02:31
+hackernews · MaxMussio · Aug 3, 21:13 · [Discussion](https://news.ycombinator.com/item?id=49161518)
 
-**「Background」** Qwen is Alibaba&\#x27;s family of large language models, usually divided into tiers that range from smaller open models to a Max tier reserved for the largest capabilities. Previously, Max-level Qwen models were only accessible through the QwenCloud API, so this release is notable because it is the first time Qwen will open-source the weights of a Max-level model.
+**「Background」** The article argues that LLMs reward domain expertise, amplifying the skills of experienced engineers while exposing gaps for novices. It notes that in the 2010s, technical gaps had to be filled by relying on skilled colleagues or searching for exact answers online, whereas today LLMs can generate passable code for tasks like CSS, but results depend heavily on the user&\#x27;s ability to structure requests and understand architecture. Hacker News commenters echo this, observing that effective use requires formulating precise prompts rather than vague demands like asking for a full simulation without mistakes.
 
-**「Impact」** Developers and researchers will soon be able to download and self-host a 2.4-trillion-parameter open-weight model instead of relying solely on Qwen&\#x27;s API, though running a model of this scale will require enormous computational resources.
+**「Community Discussion」** Commenters largely agreed with the thesis, sharing relevant experience: krisoft described testing a non-technical friend&\#x27;s attempt to build a simple web app with an LLM, and abixb compared LLMs to an amplifying mirror that rewards knowledgeable use and punishes those who treat it as a replacement for thinking. The thread also included qualifications, with dbalatero arguing that codebase-specific familiarity matters more than general expertise and Austiiiiii calling for formal study while acknowledging possible confirmation bias.
 
-**Tags**: `#Qwen`, `#AI model`, `#open source`, `#large language model`, `#tech news`
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.seangoedecke.com/llms-reward-expertise/">LLMs reward expertise</a></li>
+<li><a href="https://news.ycombinator.com/item?id=49161518">LLMs reward expertise | Hacker News</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#LLM`, `#software engineering`, `#AI tools`, `#expertise`, `#developer productivity`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [OpenAI highlights ten AI-driven advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 8.0/10
+### [OpenAI Highlights Ten AI Advances in Mathematics](https://openai.com/index/ten-advances-in-mathematics/) ⭐️ 8.0/10
 
-OpenAI has published an item titled &\#x27;Ten advances in mathematics and theoretical computer science,&\#x27; describing recent AI-assisted results in formal reasoning and proof. The company presents the advances as evidence of accelerating progress in automated reasoning, including the ability to generate candidate proofs and check them computationally. The announcement is aimed at AI/ML researchers and the theoretical computer science community, where it has generated substantive discussion. Specific proof details, problem statements, and dates are not available in the provided source material, so their exact scope cannot be confirmed here.
+OpenAI published an item titled “Ten advances in mathematics and theoretical computer science,” highlighting recent AI-enabled results in those fields. The announcement suggests that AI is increasingly useful for generating, checking, and accelerating mathematical work, which could have broad implications for research and software engineering. However, the supplied item does not include the specific advances, names, dates, or technical details, so the scope and verifiability of the ten items remain unclear.
 
 hackernews · milkshakes · Aug 3, 16:27 · [Discussion](https://news.ycombinator.com/item?id=49157930)
 
-**「Background」** OpenAI published a 249-page manuscript on August 1, 2026, describing ten new results in pure mathematics and theoretical computer science, each accompanied by a machine-checkable certificate in the Lean 4 proof assistant. This follows a broader trend of using AI models, including large language models, to help generate and verify formal proofs for open problems in areas such as geometry, cryptography, and complexity theory.
+**「Background」** OpenAI published a list of ten results it describes as advances in mathematics and theoretical computer science, covering areas such as geometry, cryptography, and complexity, and backed by a 249-page manuscript with machine-checkable certificates written in the Lean 4 proof assistant. Historically, AI&\#x27;s role in mathematics has often been limited to computation or assisting with formal proofs, but this announcement is part of a broader push to show that AI models can help generate and verify research-level mathematical reasoning. Lean 4 is an interactive proof assistant that allows formal, computer-verified proofs, which is why the claimed results can be accompanied by independently checkable certificates.
 
-**「Community Discussion」** Commenters largely agree that AI&\#x27;s progress in mathematics is following an exponential curve rather than a linear timeline, and that the technology can now generate and check candidate proofs at scale. Some note that intuition and conjecture formation remain human domains, while others point to specific examples like high-dimensional sphere packing and multicolor Ramsey numbers as illustrations, and one commenter quotes Douglas Adams&\#x27;s philosophers to suggest mathematicians should worry about being replaced.
+**「Impact」** Mathematicians and theoretical computer scientists should anticipate AI models becoming more integrated into proof discovery and verification, as OpenAI reports ten advances on long-standing open problems in geometry, cryptography, and complexity. Independent validation remains necessary, but the announced results signal a concrete shift in how researchers may approach these fields.
+
+**「Community discussion」** Commenters mostly express awe and caution, with several describing the pace as exponential and speculating that mathematics may be one area quickly consumed by AI-driven automation. One commenter notes that LLMs make proofs more computable because they can both generate and check candidate solutions, though this does not mean all mathematics is automatically solved; another points out that computers can rapidly disprove conjectures through grinding that humans cannot match. A few commenters urge taking AI’s impact seriously, while one non-expert refrains from prematurely judging the significance.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://openai.com/index/ten-advances-in-mathematics/">Ten advances in mathematics and theoretical computer science</a></li>
-<li><a href="https://beyondtmrw.org/article/ten-advances-in-mathematics-and-theoretical-computer-science">Ten advances in mathematics and theoretical computer science</a></li>
+<li><a href="https://openai.com/index/ten-advances-in-mathematics/">Ten advances in mathematics and theoretical computer ... | OpenAI</a></li>
+<li><a href="https://beyondtmrw.org/article/ten-advances-in-mathematics-and-theoretical-computer-science">OpenAI Mathematics Advances : Ten Breakthroughs in 2026</a></li>
+<li><a href="https://thewaffleaffair.com/general/ten-advances-in-mathematics-and-theoretical-computer-science/">Ten Advances In Mathematics And Theoretical Computer Science</a></li>
+<li><a href="https://openai.com/index/ten-advances-in-mathematics/">Ten advances in mathematics and theoretical computer... | OpenAI</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI research`, `#mathematics`, `#theoretical computer science`, `#automated reasoning`, `#OpenAI`
+**Tags**: `#artificial intelligence`, `#mathematics`, `#theoretical computer science`, `#OpenAI`, `#research`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [ComfyUI Adds Day-0 Support for Open-Weight MiniMax H3, 2K Video and Audio](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) ⭐️ 8.0/10
+### [MiniMax H3 in ComfyUI: Open Weights, Native Audio, 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) ⭐️ 8.0/10
 
-ComfyUI has announced day-0 support for MiniMax H3, an open-weights model capable of native audio and 2K video generation. The integration lets users run the model locally, and the project claims pruning roughly 40% of parameters into a lookup table cuts total memory from 123.6 GB in full precision to 42.5 GB with the smallest variants, a 66% reduction; combined with dynamic VRAM offloading, this can run on a GPU such as an RTX 3060. Early community tests show strong output quality, though one user reported about 10 minutes to generate a 10-second 480p clip on a 4070 Ti Super with 16 GB VRAM. The announcement generated substantial practitioner interest because it advances accessible local text/video generation.
+MiniMax H3 is now available in ComfyUI on day zero with open weights, native frame-to-frame audio, and 2K video generation. The release highlights a memory optimization that prunes the model&\#x27;s modulation weights, roughly 40% of total parameters, into a functionally equivalent lookup table, reducing the total memory footprint by 66%, from 123.6 GB in full precision to 42.5 GB with the smallest variants. Combined with dynamic VRAM offloading, this enables a next-generation 2K video model to run locally on a GPU like the RTX 3060. Early community testing reports spectacular output quality but long generation times, such as 10 minutes for a 10-second 480p clip on an RTX 4070 Ti Super with 16 GB VRAM, and breakdowns in unusual scenarios.
 
 hackernews · vblanco · Aug 3, 13:34 · [Discussion](https://news.ycombinator.com/item?id=49155629)
 
-**「Background」** ComfyUI is a popular node-based interface for running AI image and video generation models locally. MiniMax H3, released by MiniMaxAI with open weights under the MiniMax H3 Community License, is a next-generation multimodal video model that accepts text, images, video, or audio and generates video with native stereo sound at resolutions up to 2K and clips up to 15 seconds. Day-0 support in ComfyUI means the model is available immediately in the ComfyUI ecosystem via the Comfy-Org Hugging Face repository, allowing users to run it locally from the day of release.
+**「Background」** ComfyUI is a popular node-based interface for running AI generative models locally, and day-0 support means a new model is integrated into the workflow ecosystem as soon as it launches. MiniMax H3 is an open-weights &\#x27;omni&\#x27; transformer \(33.1B parameters for the H3-Base variant\) that ingests text, images, video, and audio, and can generate video clips up to 2K resolution at 24fps for roughly 15 seconds, complete with native stereo audio. To make the model practical on consumer GPUs such as an RTX 3060 or 4070 Ti Super, ComfyUI applies a technique that prunes the roughly 40% of parameters used as modulation weights into an equivalent lookup table, cutting the memory footprint from 123.6 GB to 42.5 GB in the smallest variants.
 
-**「Impact」** Affected users can now run at least the lower-memory MiniMax H3 variants locally through ComfyUI on a GPU such as an RTX 3060, but typical user hardware still yields lengthy generation times \(about 10 minutes for a 10-second 480p clip on a 4070 Ti Super\).
+**「Impact」** ComfyUI users can now run MiniMax H3 locally with day-0 support for T2V, I2V, and R2V workflows, but the practical deployment cost is significant: the pruned INT8/NVFP4 configuration consumes about 42.5GB on disk with community-reported VRAM needs around 24GB. The release is also region-restricted, with US and EU users excluded from the model weights, so many developers cannot access it at all despite the open-weights claim.
 
-**「Community Discussion」** Commenters were broadly impressed by the results and speed, but they cautioned that non-standard prompts still produce janky outputs and questioned whether the claimed &\#x27;no loss&\#x27; pruning approach would transfer to LLMs.
+**「Community Discussion」** Commenters were impressed by the output, especially mouse renders, but noted persistent AI smoothing in some clips and significant jank in non-standard scenarios. Performance feedback centered on the practical tradeoff: impressive local generation quality comes with very slow speeds, with one user reporting 10 minutes for a 10-second 480p clip on a 16GB 4070 Ti Super; another commenter also asked whether the lookup-table pruning approach is common and applicable to LLMs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui">MiniMax H 3 Day - 0 Support in ComfyUI : Open Weights , Native Audio...</a></li>
-<li><a href="https://huggingface.co/Comfy-Org/MiniMax-H3">Comfy -Org/ MiniMax - H 3 · Hugging Face</a></li>
+<li><a href="https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui">MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video</a></li>
+<li><a href="https://docs.comfy.org/tutorials/video/minimax/minimax-h3">MiniMax H3: ComfyUI Workflow Examples - ComfyUI</a></li>
+<li><a href="https://comfyui-wiki.com/en/news/2026-08-03-minimax-h3-open-weights-comfyui">MiniMax H3 Open Weights Land With Native ComfyUI ...</a></li>
+<li><a href="https://www.oflight.co.jp/en/columns/minimax-h3-requirements-vram-local-2026">MiniMax H3 Requirements: VRAM, GPU &amp; File Sizes (2026)</a></li>
+<li><a href="https://rits.shanghai.nyu.edu/ai/minimax-ships-h3-weights-with-the-us-and-eu-excluded/">MiniMax Ships H3 Weights — With the US and EU Excluded</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#video generation`, `#ComfyUI`, `#MiniMax H3`, `#open weights`, `#AI models`
+**Tags**: `#ComfyUI`, `#MiniMax H3`, `#video generation`, `#open weights`, `#AI optimization`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [DNA device flaw could let hackers alter 30 years of U.S. forensic evidence](https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a) ⭐️ 8.0/10
+### [Kimi K3 Architecture: Compressed Memory, Attention Across Depth, Latent Expert Routing](https://newsletter.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the) ⭐️ 8.0/10
 
-Researchers found a security flaw in DNA analysis devices used by most U.S. crime laboratories, potentially allowing undetected tampering with roughly 30 years of forensic DNA files dating back to 1995. Using AI-generated code from Anthropic&\#x27;s Claude, they modified DNA scan data without leaving traces; the first tampering took about 45 minutes and altered files did not trigger alerts from common analysis software. Manufacturer Thermo Fisher Scientific privately acknowledged the vulnerability in July and published a high-severity advisory last Friday, warning that files could face &quot;almost undetectable modification&quot; if lab controls are bypassed, and released a software update adding digital signatures. The company says it is working with the U.S. Cybersecurity and Infrastructure Security Agency and no exploit has been observed. Researchers said more than 200 U.S. labs lack unified oversight and security varies, and it remains unclear whether pending or closed cases are affected.
+SemiAnalysis published a technical breakdown of Kimi K3, a model from Moonshot AI, focusing on its architecture and inference performance. The article highlights three distinctive design elements: compressed memory, attention across depth, and latent expert routing. The analysis is relevant to AI/ML practitioners and the industry because it examines frontier model architecture and serving efficiency. However, the supplied item contains no performance data, benchmarks, or engineering details beyond these architectural labels, so concrete specifics are not yet available.
 
-telegram · zaihuapd · Aug 3, 05:15
+rss · Semianalysis · Aug 3, 19:42
 
-**「Background」** DNA analysis instruments in forensic labs convert biological samples into digital profiles and data files that prosecutors rely on in criminal cases. Because these systems usually trust the integrity of files they process, a vulnerability that allows altered data to go unnoticed undermines the evidentiary chain of custody. The patch introduces digital signatures so labs can verify that files have not been changed.
+**「Background」** Kimi K3 is a large language model developed by Moonshot AI, the team behind the Kimi assistant. Its architecture introduces compressed memory, attention across depth, and latent expert routing, with reported design details including LatentMoE, NoPE \(no positional embeddings\), and Kimi Delta Attention. These choices aim to improve inference efficiency and reduce memory overhead, extending recent work on mixture-of-experts and long-context modeling.
 
-**「Impact」** The advisory and update shift responsibility to the more than 200 U.S. crime labs using these instruments to apply the patch and assess exposure, though no exploitation has been reported and whether pending or closed cases are affected remains unclear.
-
-**Tags**: `#cybersecurity`, `#forensics`, `#DNA analysis`, `#AI`, `#Thermo Fisher`
-
----
-
-<a id="item-tech-news-5"></a>
-### [Nvidia CMP 170HX Mining Card Hack Unlocks 80GB VRAM, Prices Soar](https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzqsf4659769.shtml) ⭐️ 8.0/10
-
-Researchers at Arizona State University disclosed a bypass for Nvidia&\#x27;s CMP 170HX mining card that uses a stack overflow in the GPU security coprocessor to defeat the official OTP fuse locks, unlocking up to 80 GB of VRAM and boosting FP32 compute from 0.39 TFLOPS to 94 TFLOPS. The card, released in 2021 with the same GA100 core as the A100, was originally crippled by hardware limits on compute, memory, and PCIe. After the exploit became public, secondary market prices in China jumped from 300–500 yuan to 3,000–4,000 yuan, with overseas listings reaching $1,500. Community members have verified the unlocked cards can run AI image generation and large language model inference on both Windows and Linux, though long-term stability and the maximum unlock per card batch remain uncertain.
-
-telegram · zaihuapd · Aug 3, 11:29
-
-**「Background」** The CMP 170HX was Nvidia&\#x27;s dedicated cryptocurrency mining card built on the GA100 die used in the A100, but it was intentionally restricted through one-time programmable fuses that limited memory capacity, compute performance, and PCIe bandwidth. These restrictions were managed by the Falcon security coprocessor, making the card effectively a crippled version of a high-end data center GPU. The disclosed vulnerability exploits an unbounded DMA overflow in that coprocessor to hijack control and modify the previously irreversible hardware locks.
-
-**「Impact」** The exploit has created a supply of cheap, high-VRAM GPUs for AI inference workloads, but it has also driven used-card prices up roughly tenfold in China and to $1,500 overseas, shrinking the affordability window and introducing resale and long-term reliability risks for buyers.
-
-**Tags**: `#hardware`, `#security`, `#Nvidia`, `#GPU`, `#AI`
-
----
-
-<a id="item-tech-news-6"></a>
-### [Apple Sues UK Over iCloud Backdoor Order](https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1) ⭐️ 8.0/10
-
-Apple has filed a legal challenge with the UK Investigatory Powers Tribunal against a Technical Capability Notice requiring a backdoor into encrypted iCloud backups for UK users, contesting the government&\#x27;s authority to issue the order. Apple has long argued that any backdoor reduces security for all users; due to legal restrictions, both Apple and the UK Home Office declined to comment. The move continues a protracted encryption dispute: the UK withdrew an earlier notice covering US users after a clash with Washington, then issued a new UK-only notice, prompting Apple to remove iCloud Advanced Data Protection in the UK in February 2025. Privacy groups Privacy International and Liberty have also challenged the notice, and the tribunal has scheduled a case-management hearing for next month.
-
-telegram · zaihuapd · Aug 3, 15:40
-
-**「Background」** The Technical Capability Notice is a UK legal instrument under the Investigatory Powers Act that can compel technology companies to weaken or bypass encryption. Apple&\#x27;s iCloud Advanced Data Protection offers end-to-end encryption for backups and other data, meaning Apple retains no decryption keys; a backdoor would force Apple to provide access to encrypted user content to UK authorities.
-
-**「Impact」** UK iCloud users have lost access to end-to-end encrypted Advanced Data Protection since February 2025, and the legal outcome will help determine whether UK authorities can compel backdoors into encrypted cloud services.
-
-**Tags**: `#Apple`, `#encryption`, `#government surveillance`, `#iCloud`, `#security`
-
----
-
-<a id="item-tech-news-7"></a>
-### [LLMs reward expertise, not just democratize skill](https://www.seangoedecke.com/llms-reward-expertise/) ⭐️ 7.0/10
-
-In the essay &\#x27;LLMs reward expertise&\#x27; at seangoedecke.com, Sean Goedecke argues that large language models amplify existing knowledge and skill rather than leveling the playing field for novices. The piece contends that deep domain knowledge, codebase familiarity, and the ability to craft precise prompts let experts extract far more value from LLMs, while novices often lack the context to evaluate or direct the output. The essay has drawn substantive Hacker News discussion, with commenters broadly agreeing that LLMs act as an &\#x27;amplifying mirror&\#x27; of the user&\#x27;s capabilities and that explicitly signaling expertise in prompts improves results. Others caution that the effect needs formal study and may reflect confirmation bias.
-
-hackernews · MaxMussio · Aug 3, 21:13 · [Discussion](https://news.ycombinator.com/item?id=49161518)
-
-**「Background」** In his July 24, 2026 essay, software engineer Sean Goedecke argues that LLMs reward expertise: while they let almost anyone produce passable generalist output, such as “sort-of-okay CSS,” getting high-quality results still depends on deep familiarity with the codebase or domain in question. The essay, which sparked a Hacker News discussion with 266 points and 113 comments, contends that LLMs amplify existing expertise rather than making specialized knowledge unnecessary, because effective prompting and evaluation require knowing what to ask and how to judge the answer.
-
-**「Community Discussion」** Commenters largely endorse the essay&\#x27;s thesis, describing LLMs as a reflection of the user&\#x27;s prompt quality and world knowledge, with one noting that explicit expertise signaling \(&\#x27;I have significant background in biblical scholarship...&\#x27;\) changes outputs significantly. A counterpoint asks for formal study to avoid confirmation bias, observing that some coworkers get good results with very brief prompts, while another stresses that codebase familiarity remains a hands-on, hard-to-replace skill.
+**「Impact」** Kimi K3 gives developers and organizations access to one of the first open 3T-class models through APIs such as Together AI, and it currently ranks \#5 out of 215 models on BenchLM&\#x27;s provisional leaderboard with an overall score of 79.89. These benchmark results are provisional and based on third-party evaluations, so performance may shift as more data becomes available.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.seangoedecke.com/llms-reward-expertise/">LLMs reward expertise - seangoedecke.com</a></li>
-<li><a href="https://www.aib.vote/en/news/llms-reward-domain-expertise">LLMs Reward Domain Expertise | AIB</a></li>
+<li><a href="https://www.explainx.ai/blog/kimi-k3-architecture-raschka-latentmoe-nope-july-2026">Kimi K3 Architecture — Raschka Notes 2026 | explainx.ai Blog</a></li>
+<li><a href="https://benchlm.ai/models/kimi-3">Kimi K 3 Benchmarks, Pricing &amp; Speed (July 2026) | BenchLM. ai</a></li>
+<li><a href="https://www.together.ai/blog/kimi-k3-guide">Kimi K 3 : The Complete Developer Guide</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLMs`, `#software engineering`, `#expertise`, `#AI`, `#productivity`
+**Tags**: `#Kimi K3`, `#model architecture`, `#inference`, `#AI`
 
 ---
 
-<a id="item-tech-news-8"></a>
-### [Andy Pavlo joins ClickHouse to launch ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse) ⭐️ 7.0/10
+<a id="item-tech-news-5"></a>
+### [DNA Analysis Flaw Puts Decades of U.S. Crime Lab Evidence at Risk](https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a) ⭐️ 8.0/10
 
-Andy Pavlo has joined ClickHouse to establish ClickHouse Labs, a new research lab representing closer ties between academic database research and the commercial OLAP community. ClickHouse, known for real-time analytics database software, is the organizing company behind the lab. The move is notable because Pavlo is a prominent database researcher and educator, widely followed through his CMU database lecture series. The announcement was met with community interest in potential research directions and continued academic engagement.
+Forensic and computer scientists discovered a security vulnerability in DNA analysis equipment used by most U.S. crime labs, potentially allowing roughly 30 years of DNA evidence files dating back to 1995 to be tampered with. Using AI-generated code, the researchers were able to modify DNA scan data without leaving traces; their first successful tampering attempt, using Anthropic&\#x27;s Claude, took about 45 minutes and did not trigger alerts in commonly used analysis software. Manufacturer Thermo Fisher Scientific privately acknowledged the flaw in July and on the following Friday issued a high-severity security advisory warning that some files were at risk of &quot;almost imperceptible modification&quot; if lab controls were bypassed, while releasing a software update that adds digital signatures. The company is coordinating with the U.S. Cybersecurity and Infrastructure Security Agency \(CISA\) and said there is no evidence the flaw has been exploited in the wild. The researchers noted that more than 200 U.S. labs lack uniform regulation and have inconsistent security measures, leaving unclear whether pending or closed cases are affected.
+
+telegram · zaihuapd · Aug 3, 05:15
+
+**「Background」** DNA analysis instruments generate digital profiles that forensic software reads and interprets; if attackers can alter those files without detection, they could undermine the integrity of criminal evidence. The researchers leveraged modern AI coding tools to identify and exploit weaknesses in a widely used commercial DNA analysis platform, illustrating how AI can accelerate vulnerability discovery in specialized scientific software.
+
+**「Impact」** Users of Thermo Fisher DNA analysis equipment face a high-severity vulnerability that could allow undetectable modification of forensic DNA files, making it urgent to apply the newly released digitally signed update. The full impact on pending or closed cases remains uncertain because the more than 200 largely unregulated U.S. crime labs have uneven security postures.
+
+**Tags**: `#cybersecurity`, `#DNA analysis`, `#vulnerability`, `#AI`, `#forensic software`
+
+---
+
+<a id="item-tech-news-6"></a>
+### [Andy Pavlo joins ClickHouse to establish ClickHouse Labs](https://clickhouse.com/blog/andy-pavlo-joins-clickhouse) ⭐️ 7.0/10
+
+Andy Pavlo, a prominent database researcher and professor at Carnegie Mellon University, is joining ClickHouse to establish ClickHouse Labs, an initiative aimed at bridging academic research and commercial database engineering. The move signals ClickHouse&\#x27;s investment in database systems research, particularly in OLAP and storage, even as much of the industry focuses on AI. Pavlo is widely known for his CMU database lecture series, which has been used by students and practitioners. The lab is expected to bring academic rigor into ClickHouse&\#x27;s product development, though specific technical details and roadmap have not been disclosed.
 
 hackernews · nikolay\_sivko · Aug 3, 14:09 · [Discussion](https://news.ycombinator.com/item?id=49156011)
 
-**「Background」** ClickHouse is an open-source columnar OLAP database widely used for high-performance analytics. Andy Pavlo is one of the database industry&\#x27;s most prominent researchers, known for his academic work and widely followed teaching. By joining ClickHouse to lead a new research group, ClickHouse Labs, Pavlo will bridge academic database research with the commercial OLAP community.
+**「Context」** Andy Pavlo is a prominent database researcher and professor at Carnegie Mellon University, well known for his work on database systems and for teaching popular database courses. ClickHouse is an open-source columnar OLAP database, and the newly launched ClickHouse Labs is a research group led by Pavlo as Vice President of Database Research to advance the state of the art in database systems.
 
-**「Community Discussion」** Commenters generally welcomed the news, with one noting they had watched Pavlo&\#x27;s CMU lecture series while studying and another hoping the lectures continue in a ClickHouse-sponsored format. Several comments also raised broader questions about the future of OLAP systems, including whether fast engines like ClickHouse and StarRocks will converge with Trino on decoupled compute/storage using S3-like storage, and what that means for ingestion and indexing.
+**「Impact」** The creation of ClickHouse Labs gives the company a dedicated channel for fundamental database research, potentially accelerating innovation in OLAP storage, ingestion, and indexing. Community members also expect Pavlo&\#x27;s educational lecture series may continue in a ClickHouse-sponsored format, extending its reach.
+
+**「Community Discussion」** Commenters largely welcomed the move as a rare corporate research lab outside AI, praising Pavlo&\#x27;s educational impact and hoping ClickHouse will fund academic database research. Others speculated about how ClickHouse&\#x27;s OLAP architecture, including joins, ingestion, and indexing, may evolve toward decoupled compute/storage and greater interoperability with Trino.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://clickhouse.com/blog/andy-pavlo-joins-clickhouse">Andy Pavlo joins ClickHouse to establish ClickHouse Labs</a></li>
 <li><a href="https://finance.yahoo.com/technology/ai/articles/clickhouse-launches-clickhouse-labs-andy-133000640.html?fr=sycsrp_catchall">ClickHouse Launches ClickHouse Labs With Andy Pavlo as VP of ...</a></li>
-<li><a href="https://www.linkedin.com/posts/clickhouseinc_andy-pavlo-joins-clickhouse-to-establish-activity-7490039183105937409-PIGE">Andy Pavlo joins ClickHouse to establish ClickHouse Labs ...</a></li>
+<li><a href="https://www-pp.afp.com/en/infos/clickhouse-launches-clickhouse-labs-andy-pavlo-vp-database-research">ClickHouse Launches ClickHouse Labs With Andy Pavlo as VP of ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#ClickHouse`, `#database research`, `#OLAP`, `#Andy Pavlo`, `#systems engineering`
+**Tags**: `#ClickHouse`, `#database research`, `#OLAP`, `#systems engineering`, `#academia-industry`
+
+---
+
+<a id="item-tech-news-7"></a>
+### [Pandoc&\#x27;s Creator Reflects on Twenty Years of Universal Document Conversion](https://pandoc.org/twenty-years-of-pandoc.html) ⭐️ 7.0/10
+
+Pandoc&\#x27;s creator John MacFarlane has published a retrospective essay marking the tool&\#x27;s 20th anniversary, tracing its design and evolution. The central idea behind Pandoc is that writing N readers and M writers yields N×M conversion paths, which has made it a universal bridge between Markdown, DOCX, LaTeX, Typst, and many other formats. The project, written in Haskell, grew from a personal utility into one of the most widely used open-source document-conversion tools. The essay is a reflection rather than a release, so it introduces no new features, but it offers rare insight into the architecture and philosophy behind the tool.
+
+hackernews · fiddlosopher · Aug 3, 15:04 · [Discussion](https://news.ycombinator.com/item?id=49156750)
+
+**「Background」** Pandoc is a free, open-source document converter created by John MacFarlane, a philosophy professor at the University of California, Berkeley. It was first released in 2006 and works by plugging together readers and writers, allowing conversion among dozens of markup formats such as Markdown, HTML, LaTeX, and docx. The author&\#x27;s retrospective marks the tool&\#x27;s twentieth anniversary and reflects on its design and evolution.
+
+**「Impact」** For Pandoc&\#x27;s large user and contributor community, the retrospective provides a detailed look at the tool&\#x27;s architecture without changing any current workflows; existing documents and scripts continue to work as before.
+
+**「Community Discussion」** Commenters praise Pandoc&\#x27;s design and the maintainers&\#x27; helpful contributions experience, with several reporting successful bug reports and PRs despite limited Haskell knowledge. Others share concrete workflows, such as piping Outlook email through Pandoc and using it as the core of a minimal static-site generator.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Pandoc">Pandoc - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/John_MacFarlane_%28philosopher%29">John MacFarlane (philosopher) - Wikipedia</a></li>
+<li><a href="https://lwn.net/Articles/1086976/">Twenty years of Pandoc [LWN.net]</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#pandoc`, `#open source`, `#document conversion`, `#software engineering`, `#Haskell`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [Jane Street&\#x27;s Bonsai brings OCaml to full-stack UI development](https://github.com/janestreet/bonsai) ⭐️ 7.0/10
+
+Jane Street&\#x27;s Bonsai is an OCaml UI library that enables using the same language and types on both backend and frontend, drawing significant Hacker News attention with 321 points and 136 comments. The library was discussed in a Signals and Threads podcast episode, and commenters compared it to Melange, an OCaml-to-JavaScript compiler used by Ahrefs for similar full-stack OCaml development. Commenters noted that choosing Bonsai may mean giving up much of the JavaScript ecosystem, including React and GraphQL tooling. Some commenters praised the performance but criticized the visual aesthetics, noting that margins and general styling could be improved.
+
+hackernews · KolmogorovComp · Aug 3, 08:29 · [Discussion](https://news.ycombinator.com/item?id=49152842)
+
+**「Background」** Bonsai is a library by Jane Street for building dynamic web applications in OCaml, compiled to JavaScript via Js\_of\_ocaml. It provides reusable UI components inside an Incremental-style UI framework such as Incr\_dom or React. This is part of Jane Street&\#x27;s effort to enable using OCaml for both backend and frontend, allowing shared types across the stack.
+
+**「Impact」** The main consequence is that OCaml-focused teams can now write both frontend and backend in one type-safe language, reducing the impedance mismatch between server and client, though they must accept a potentially smaller tooling ecosystem than what JavaScript offers.
+
+**「Community Discussion」** Commenters were enthusiastic about finally achieving unified backend/frontend types in OCaml, but they debated whether Bonsai or Melange better serves full-stack OCaml and whether the approach sacrifices access to widely used JavaScript libraries. There was also criticism of the library&\#x27;s visual polish and recommendations for resources like the Signals and Threads episode and related Hacker News threads.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/janestreet/bonsai?ref=upstract.com">GitHub - janestreet / bonsai at upstract.com</a></li>
+<li><a href="https://opam.ocaml.org/packages/bonsai/bonsai.v0.17.0/">The homepage of opam, a package manager for OCaml</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#OCaml`, `#UI library`, `#functional programming`, `#Jane Street`, `#web development`
 
 ---
 
 <a id="item-tech-news-9"></a>
-### [Bonsai: OCaml UI library from Jane Street sparks ecosystem debate](https://github.com/janestreet/bonsai) ⭐️ 7.0/10
+### [Police Accused of Using License Plate Cameras to Spy on Exes](https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/) ⭐️ 7.0/10
 
-Jane Street has released Bonsai, an OCaml UI library on GitHub that allows developers to build web interfaces in OCaml and share types between frontend and backend. The project has attracted substantial Hacker News discussion, focusing on production readiness, how it compares with the OCaml-to-JavaScript compiler Melange, and whether it sacrifices access to the broader JavaScript ecosystem. Jane Street&\#x27;s Signals and Threads podcast has also covered the framework in an episode titled &\#x27;Building a UI Framework.&\#x27; While no external production adopters are cited in the discussion, the library highlights Jane Street&\#x27;s push to use a single functional language across the entire web stack.
+A Washington Post investigation published Aug. 2 found that at least 50 U.S. law enforcement officers have been accused or prosecuted for misusing license plate recognition systems such as Flock for personal surveillance, with 26 cases involving checking on wives, girlfriends, ex-partners, or women they were interested in and 46 involving Flock. The report cites Georgia police chief Michael Steffman, who searched his ex-girlfriend Bakely and her daughter&\#x27;s plates about 600 times, was arrested in November 2025, and died by suicide before his trial in April. Flock says its more than 120,000 cameras cover over 6,000 communities and record 20 billion plate scans monthly, and its CEO acknowledges that abuse is difficult to completely prevent while pointing to an optional &\#x27;audit assistance&\#x27; feature. Privacy groups say oversight is inadequate: only 13 states require audits of these systems and at least 8 states treat misuse as a crime.
 
-hackernews · KolmogorovComp · Aug 3, 08:29 · [Discussion](https://news.ycombinator.com/item?id=49152842)
+telegram · zaihuapd · Aug 3, 09:03
 
-**「Background」** Bonsai is Jane Street&\#x27;s OCaml library for building reactive, performant web applications, partly inspired by Elm, and it powers nearly all of Jane Street&\#x27;s internal web tools. It uses an Incremental-style engine to re-render only when the UI model changes, and it compiles OCaml to JavaScript via Js\_of\_ocaml, which is what enables sharing types and code between frontend and backend. This background context helps explain the excitement about using one language across the stack, as well as the comparisons to alternatives like Melange that also target OCaml-to-JavaScript compilation.
+**「Background」** Automated license plate readers \(ALPRs\) are camera systems that capture and store vehicle plate data as cars pass, often run by companies like Flock Safety on behalf of police and communities. The technology is marketed for solving crimes but creates large searchable databases of people&\#x27;s movements, which has raised longstanding concerns about warrantless tracking and personal abuse.
 
-**「Community discussion」** In Hacker News comments, users express enthusiasm for shared types between backend and frontend, but also raise practical concerns about production readiness in internal apps, comparisons with Melange, and whether adopting Bonsai means giving up the React, GraphQL, and broader JavaScript ecosystem. A separate commenter criticizes the visual design as &\#x27;extremely ugly&\#x27; while acknowledging likely performance, and others point to a Signals and Threads podcast episode for more depth.
+**「Impact」** For U.S. residents, this investigation shows that in most states officers can query license plate databases for personal reasons without mandatory audits or criminal liability, strengthening the case for stricter state oversight.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/janestreet/bonsai">GitHub - janestreet/bonsai: A library for building dynamic ...</a></li>
-<li><a href="https://ocaml.janestreet.com/ocaml-core/v0.13/doc/bonsai/Bonsai/index.html">Bonsai (bonsai.Bonsai) - ocaml.janestreet.com</a></li>
-<li><a href="https://github.com/janestreet/bonsai_examples">GitHub - janestreet/bonsai_examples: Examples for bonsai_web ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#OCaml`, `#UI framework`, `#web development`, `#functional programming`, `#Jane Street`
+**Tags**: `#surveillance`, `#privacy`, `#license plate recognition`, `#law enforcement`, `#data ethics`
 
 ---
 
 <a id="item-tech-news-10"></a>
-### [Kimi K3 Architecture Deep Dive](https://newsletter.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the) ⭐️ 7.0/10
+### [Nvidia CMP 170HX Crack Unlocks 80GB VRAM, Used Prices Spike](https://finance.sina.com.cn/tech/roll/2026-08-03/doc-inikzqsf4659769.shtml) ⭐️ 7.0/10
 
-A SemiAnalysis newsletter article by Kimbo Chen analyzes Kimi K3, a novel AI model architecture, highlighting innovations in compressed memory, attention across depth, latent expert routing, and inference performance. The piece positions K3&\#x27;s design as a significant technical development in model architecture, though the available excerpt offers only an outline rather than full benchmarks or conclusions. The specific mechanisms described suggest potential improvements in memory efficiency and inference speed, but no independent performance data or deployment details are provided.
+Researchers at Arizona State University publicly disclosed a crack for Nvidia&\#x27;s CMP 170HX mining card, exploiting a stack overflow vulnerability in the GPU security coprocessor to bypass Nvidia&\#x27;s OTP fuse locks. The unlock raises usable VRAM to up to 80 GB and boosts FP32 compute from 0.39 TFLOPS to 94 TFLOPS. The card, introduced in 2021 with the GA100 die also used in the A100, had multiple hardware-level limits considered irreversible. Following the disclosure, used-card prices jumped from roughly 300–500 yuan to 3,000–4,000 yuan in China, with overseas listings reaching $1,500. Domestic communities report unlocked cards work on Windows and Linux for AI image generation and large language model inference, though long-term stability and per-batch unlock limits remain uncertain.
 
-rss · Semianalysis · Aug 3, 19:42
+telegram · zaihuapd · Aug 3, 11:29
 
-**「Background」** Kimi K3 is Moonshot AI&\#x27;s most capable flagship model, a 2.8-trillion-parameter open model that is the first in the 3T-parameter class, with native vision capabilities and a 1-million-token context window. It is built on new architectural components called Kimi Delta Attention and Attention Residuals, which underpin the compressed memory, attention across depth, and latent expert routing discussed in the analysis. Released as an open model, it targets frontier performance in coding, knowledge work, and reasoning, and is positioned for long-horizon agentic use cases.
+**「Background」** The CMP 170HX is a cryptocurrency-mining GPU launched by Nvidia in 2021, built on the same GA100 chip as the data-center A100. To prevent its use in general-purpose computing, Nvidia disabled features via one-time-programmable \(OTP\) fuses that limited VRAM, compute, and PCIe performance. The newly published attack uses an unbounded DMA overflow in the Falcon security coprocessor to gain control and modify the locked registers.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.kimi.com/blog/kimi-k3">Kimi K 3 Tech Blog: Open Frontier Intelligence</a></li>
-<li><a href="https://lmstudio.ai/models/kimi-k3">Kimi K 3</a></li>
-<li><a href="https://openlm.ai/kimi-k3/">Kimi K 3 | OpenLM. ai</a></li>
+**「Impact」** The unlock has already driven the card&\#x27;s used price from roughly 300–500 yuan to 3,000–4,000 yuan domestically and up to $1,500 overseas, while exposing buyers to unverified stability and batch-dependent unlock limits.
 
-</ul>
-</details>
-
-**Tags**: `#AI`, `#model architecture`, `#inference`, `#machine learning`, `#Kimi K3`
+**Tags**: `#hardware`, `#GPU`, `#security`, `#Nvidia`, `#AI`
 
 ---
 
 <a id="item-tech-news-11"></a>
-### [Desk reject papers without reproducible code, says ML reviewer](https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/) ⭐️ 7.0/10
+### [Apple sues UK over iCloud backdoor order](https://www.ft.com/content/2cc9c96a-0e5b-4c33-a95a-3d11072a145c?syn-25a6b1a6=1) ⭐️ 7.0/10
 
-A reviewer reports that across 12 papers reviewed for three major ML conferences during NeurIPS review season, only one included full code capable of running the entire pipeline from input dataset to output AUROC; four provided only partial code, and seven provided no code. Of the five papers with at least some code, three contained obvious bugs that, in the reviewer&\#x27;s assessment, completely invalidated their results. The author argues that current incentives discourage code release during review because sharing code only increases the chance of rejection when reviewers find bugs, and proposes imposing real penalties by desk-rejecting papers that do not include code to reproduce results. The post highlights a systemic reproducibility concern in ML research practice rather than a technical breakthrough.
+Apple has filed a legal challenge with the UK Investigatory Powers Tribunal against the British government&\#x27;s Technical Capability Notice \(TCN\) demanding access to encrypted iCloud backups of UK users. Apple argues that any backdoor would weaken security for all users, and both Apple and the UK Home Office declined to comment due to legal restrictions. The move continues a long-running encryption dispute: the UK previously withdrew an initial notice covering US and UK users after a clash with the United States, then issued a new notice limited to UK users. In February 2025, Apple removed its iCloud Advanced Data Protection \(ADP\) feature from the UK market in response. Privacy organizations Privacy International and Liberty have also challenged the TCN, and the tribunal has scheduled a case-management hearing for next month.
 
-reddit · r/MachineLearning · /u/Flaky-Ambition5900 · Aug 3, 16:17
+telegram · zaihuapd · Aug 3, 15:40
 
-**「Background」** Machine learning conferences such as NeurIPS currently treat code submission as strongly encouraged rather than mandatory. The NeurIPS submission checklist and Code of Ethics address reproducibility and research integrity, but authors face little enforcement for withholding code during peer review. This leaves reviewers unable to verify results, which underlies the proposal to desk-reject papers without complete code.
+**「Background」** A Technical Capability Notice is a legal instrument under UK law that can compel a technology company to provide specific capabilities, such as access to otherwise encrypted data. iCloud Advanced Data Protection is Apple&\#x27;s opt-in end-to-end encryption feature for cloud backups, which prevents even Apple from accessing the content. The Investigatory Powers Tribunal is the UK body that hears complaints about surveillance powers and actions by public authorities.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://neurips.cc/public/EthicsGuidelines">NeurIPS Code of Ethics</a></li>
-<li><a href="https://github.com/dgonier/hexis-public/blob/main/paper/neurips_2026_guidelines.md">hexis-public/paper/neurips_2026_guidelines.md at main ...</a></li>
+**「Impact」** UK iCloud users have lost access to Advanced Data Protection while the legal fight continues, and the tribunal&\#x27;s ruling could set a precedent for how governments can compel companies to undermine end-to-end encryption.
 
-</ul>
-</details>
-
-**Tags**: `#reproducibility`, `#machine learning`, `#research practice`, `#conferences`, `#code`
-
----
-
-<a id="item-tech-news-12"></a>
-### [ARPL Auto-Configures llama.cpp for ARM Chips at Runtime](https://www.reddit.com/r/MachineLearning/comments/1ven68z/arpl_runtime_isatopology_detection_for_llamacpp/) ⭐️ 7.0/10
-
-The ARPL library performs runtime ISA and topology detection for llama.cpp on ARM, auto-configuring inference settings based on the actual hardware instead of requiring per-device builds or manual tuning. It reads HWCAPs to see which ISA extensions \(SDOT, I8MM, SME2\) are available and how CPU cores are clustered, then recommends thread counts and patches context parameters such as flash attention and KV cache quantization. The initial public release includes an Android reference app written in Kotlin/Compose with a JNI bridge into llama.cpp, and the author says it was built and tested on a Samsung S25 Ultra \(SM-S938B\). Heterogeneous CPU/GPU/NPU partitioning is not included yet, and the project is published under the PolyForm Noncommercial license. The author reports that the ISA/thread/context handling already made a real difference in testing.
-
-reddit · r/MachineLearning · /u/OpeningTough145 · Aug 3, 19:22
-
-**「Background」** llama.cpp is an open-source C/C++ inference engine that runs large language models on CPUs, GPUs, and mobile devices, but it normally needs thread counts, context settings, and feature flags to be chosen generically or tuned per chip. ARM Application Processors expose differing optional ISA extensions and heterogeneous core clusters, so runtime detection can select optimal settings such as SDOT/I8MM/SME2 support and appropriate thread counts without rebuilding for each device.
-
-**「Impact」** ARM device owners using llama.cpp can skip per-device builds and manual tuning, with ARPL automatically enabling supported ISA extensions and topology-aware thread counts, which the author says made a real difference on a Samsung S25 Ultra.
-
-**Tags**: `#llama.cpp`, `#ARM`, `#runtime detection`, `#Android`, `#Snapdragon`
+**Tags**: `#security`, `#privacy`, `#encryption`, `#apple`, `#government-surveillance`
 
 ---
 
 ## Financial News
 
 <a id="item-finance-news-1"></a>
-### [California diesel prices jump since Iran war began, raising risk of higher U.S. goods costs](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html) ⭐️ 8.0/10
+### [California diesel prices jump to $6.92, raising risks of higher goods prices nationwide](https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html) ⭐️ 8.0/10
 
-California’s average diesel price has risen to $6.92 a gallon from $5.10 before the Iran war, according to AAA, while the U.S. average is $5.36; because trucks and trains moving goods through the San Pedro Bay port complex pay those California fuel prices, analysts warn higher transport costs could push up delivered costs of goods nationwide.
+California&\#x27;s average diesel price has jumped to $6.92 a gallon from $5.10 before the Iran war began, according to AAA, compared with a $5.36 national average.
 
 rss · CNBC Finance · Aug 3, 19:20
 
-**「Background」** The war with Iran, now in its sixth month, has closed the Strait of Hormuz—a passage for over a fifth of global oil trade—and tightened refinery product markets, helping push California diesel prices up. California also has few major pipelines connecting it to other U.S. markets, so it relies on fuel shipped in from elsewhere, and its strict environmental rules add to costs.
+**「Background」** Diesel powers most U.S. trucking and rail freight, and about one-third of U.S. container imports and exports move through Southern California&\#x27;s San Pedro Bay port complex, so California fuel costs shape freight costs nationwide. The state also has few pipelines connecting it to other regions, strict environmental rules, and shrinking refining capacity, which help push its prices higher.
 
-**「Impact on U.S. households」** Because most goods shipped through California&\#x27;s ports are moved by trucks and trains, the higher diesel costs are likely to be passed on to households as more expensive everyday products nationwide.
+**「Impact」** Consumers across the U.S. could face higher prices for everyday products if higher freight costs are passed along, since many goods are first hauled by trucks and trains paying California diesel prices.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://en.wikipedia.org/wiki/2026_Iran_war_fuel_crisis">2026 Iran war fuel crisis - Wikipedia</a></li>
-<li><a href="https://www.energy.ca.gov/sites/default/files/2026-06/DPMO_California_Gasoline_Diesel_Market_Update_June_2026_ada.pdf">California Gasoline and Diesel Market Update</a></li>
-<li><a href="https://www.tiktok.com/discover/why-are-diesel-prices-higher-than-gas">Why Are Diesel Prices Higher Than Gas | TikTok</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#diesel prices`, `#Iran war`, `#supply chain`, `#California`, `#energy markets`
+**Tags**: `#diesel prices`, `#California`, `#supply chain`, `#Iran war`, `#inflation`
 
 ---
 
 <a id="item-finance-news-2"></a>
-### [Visa to Buy BioCatch for $2.4 Billion to Strengthen Fraud Detection](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html) ⭐️ 8.0/10
+### [Visa to buy fraud-detection firm BioCatch for $2.4 billion](https://www.cnbc.com/2026/08/03/visa-buys-biocatch-fraud-detection.html) ⭐️ 8.0/10
 
-Visa agreed to acquire fraud-detection startup BioCatch for $2.4 billion in cash, a deal expected to close by the end of Visa’s fiscal second quarter in 2027, subject to regulatory approvals.
+Visa said Monday it will acquire fraud-detection firm BioCatch for $2.4 billion in cash, a deal expected to close by the end of its fiscal second quarter in 2027, subject to regulatory approvals. BioCatch&\#x27;s software uses signals such as keystroke timing and touchscreen pressure to distinguish real users from scammers and bots.
 
 rss · CNBC Finance · Aug 3, 16:44
 
-**「Background」** BioCatch uses behavioral biometrics—analyzing signals like keystroke timing and touch-screen pressure—to distinguish real users from scammers and bots, and says it currently protects 760 million users across roughly 350 banks. Visa says scams and account takeovers cost the global economy more than $1 trillion annually.
+**「Background」** The acquisition extends Visa’s value-added-services business—fraud-prevention and analytics software it sells to banks—as banks confront a surge in AI-powered scams and account takeovers.
 
-**Tags**: `#M&amp;A`, `#cybersecurity`, `#payments`, `#fraud detection`, `#Visa`
+**Tags**: `#Visa`, `#BioCatch`, `#acquisition`, `#cybersecurity`, `#fraud detection`
 
 ---
 
 <a id="item-finance-news-3"></a>
-### [Japan and US reportedly intervene jointly to stem yen&\#x27;s slide to 40-year low](https://www.zaobao.com.sg/news/world/story20260802-9457369) ⭐️ 8.0/10
+### [China&\#x27;s domestic tourism slowdown hits hotel demand](https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html) ⭐️ 8.0/10
 
-Japanese Finance Minister Katayama Satsuki is expected to announce on Aug 3 that Japan and the US intervened jointly in forex markets to stop the yen from falling to a near 40-year low; market sources say authorities bought yen repeatedly and US Treasury Secretary Bessent&\#x27;s meeting notes cited buying $5–10 billion worth of yen.
+China&\#x27;s domestic tourism is weakening faster than expected, with national hotel revenue per available room \(RevPAR\) down 6% year on year through late July, according to Smith Travel Research data cited by Goldman Sachs. Hilton China now expects RevPAR to fall by low single digits this year, versus earlier expectations for a flat performance.
 
-telegram · zaihuapd · Aug 3, 01:29
+rss · CNBC Finance · Aug 3, 10:32
 
-**「Background」** The yen had earlier approached 164 per dollar, its weakest since 1986.
+**「Background」** China&\#x27;s post-Covid tourism boom has faded amid sluggish retail sales and subdued consumer prices; the travel sub-index of the consumer price index fell 0.6% month on month in June, with hotel rates and airfares dropping sharply.
 
-**Tags**: `#forex intervention`, `#Japanese yen`, `#US Treasury`, `#monetary policy`, `#currency markets`
+**「Impact」** The downturn is squeezing domestic hotel operators and tourism-dependent businesses through price competition, while inbound luxury travel offers only partial support since overseas visitors account for 12% to 13% of total tourism spending, according to Natixis.
+
+**Tags**: `#China economy`, `#tourism`, `#hotel industry`, `#RevPAR`, `#consumer spending`
 
 ---
 
 <a id="item-finance-news-4"></a>
-### [China’s domestic tourism downturn deepens while inbound luxury travel grows](https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html) ⭐️ 7.0/10
+### [Drugmaker merger talks and S&amp;P 500 addition drive premarket moves](https://www.cnbc.com/2026/08/03/stocks-making-the-biggest-moves-premarket-baba-azn-ebay-more.html) ⭐️ 7.0/10
 
-China’s domestic tourism is weakening faster than expected: hotel revenue per available room \(RevPAR\) fell 6% year on year through late July across the country, and Hilton now expects its China RevPAR to decline by low single digits this year after earlier forecasting flat performance. A partial bright spot is inbound luxury travel, with Hyatt’s Greater China RevPAR up 7.2% year on year in the second quarter.
+Premarket trading was driven by a reported pharmaceutical merger and an index change: AstraZeneca fell more than 4% and Bristol Myers Squibb rose more than 5% after The Financial Times reported the companies were in merger talks, while Ferguson Enterprises gained nearly 8% after S&amp;P Dow Jones Indices said it would join the S&amp;P 500.
 
-rss · CNBC Finance · Aug 3, 10:32
+rss · CNBC Finance · Aug 3, 12:54
 
-**「Background」** China’s post-Covid tourism rebound is fading as consumer spending and retail sales stay sluggish, with Natixis pointing to a sharp decline in per-capita tourism spending since the third quarter of 2025. A visa-free entry policy for more countries is helping draw higher-income inbound visitors.
+**「Background」** The Financial Times reported the merger talks, and S&amp;P Dow Jones Indices announced Ferguson&\#x27;s addition on Friday.
 
-**「Impact」** The slump pressures mass-market hotels and businesses dependent on Chinese domestic travelers, while luxury hotels could benefit from visa-free inbound travel.
+**「Impact」** Ferguson will replace Electronic Arts in the S&amp;P 500 before Wednesday&\#x27;s open, so index funds that track the S&amp;P 500 will need to adjust their holdings.
 
-**Tags**: `#China tourism`, `#hotel industry`, `#consumer spending`, `#RevPAR`, `#economic slowdown`
+**Tags**: `#premarket movers`, `#merger talks`, `#S&amp;P 500 addition`, `#analyst downgrades`, `#pharmaceuticals`
 
 ---
 
 <a id="item-finance-news-5"></a>
-### [CXMT Seeks Funding for Second Beijing Chip Fab, Reuters Says](https://www.reuters.com/world/asia-pacific/cxmt-plans-second-chip-plant-beijing-is-talks-its-funding-sources-say-2026-08-03/) ⭐️ 7.0/10
+### [CXMT in Early Talks for Second DRAM Chip Fab in Beijing](https://www.reuters.com/world/asia-pacific/cxmt-plans-second-chip-plant-beijing-is-talks-its-funding-sources-say-2026-08-03/) ⭐️ 7.0/10
 
-CXMT, the world&\#x27;s fourth-largest DRAM maker, is in early-stage talks to build a second 12-inch chip fab in Beijing&\#x27;s Yizhuang area and is seeking at least 60 million yuan in support from the local development zone, according to Reuters. The potential expansion comes as AI infrastructure drives a global chip shortage.
+According to Reuters, CXMT is in early talks to build a second 12-inch DRAM chip factory in Beijing&\#x27;s Yizhuang area and is seeking at least 60 million yuan in financing from the local economic development zone; the plan is not yet confirmed.
 
 telegram · zaihuapd · Aug 3, 09:38
 
-**「Background」** CXMT currently operates three 12-inch DRAM fabs in Hefei and Beijing, each with monthly capacity of about 100,000 wafers; previously planned new fabs in Shanghai and Hefei could double that to more than 600,000 wafers a month, still far below the roughly 90% combined market share of Samsung, SK Hynix and Micron.
+**「Background」** CXMT is the world&\#x27;s fourth-largest maker of DRAM memory chips, with three existing 12-inch fabs in Hefei and Beijing that have monthly capacity of about 100,000 wafers each, while Samsung, SK Hynix, and Micron together control roughly 90% of the DRAM market.
 
-**Tags**: `#DRAM`, `#semiconductor`, `#chip manufacturing`, `#China`, `#capacity expansion`
-
----
-
-<a id="item-finance-news-6"></a>
-### [Samsung shrinks China phone stores with monthly sales threshold](https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzqsf4656080.shtml) ⭐️ 7.0/10
-
-Samsung is shrinking its mobile phone store network in China after people familiar with the matter said it set an internal monthly sales threshold of 300,000 yuan and will gradually phase out stores and staff who repeatedly miss it. According to market-research firm IDC, Samsung&\#x27;s China smartphone market share was 0.1% in the second quarter of 2026, with shipments down 60.8% year on year, and its mobile experience \(MX\) business posted an operating loss of 0.7 trillion won—its first loss for the phone business.
-
-telegram · zaihuapd · Aug 3, 10:52
-
-**「Background」** The reported store-closure push has already touched Shenzhen, Fuzhou, Zhengzhou, Xi&\#x27;an, Kunming and Hefei, and comes after Samsung exited China&\#x27;s home appliance market in May. Samsung has not publicly responded to the store-shrinkage reports.
-
-**Tags**: `#Samsung`, `#China smartphone market`, `#retail contraction`, `#IDC data`, `#operating loss`
+**Tags**: `#DRAM`, `#semiconductor`, `#China`, `#chip capacity`, `#investment`
 
 ---
