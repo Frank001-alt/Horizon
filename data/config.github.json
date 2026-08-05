@@ -452,7 +452,16 @@
   },
   "processing": {
     "profiles_dir": "profiles",
-    "default_profile": "tech-news"
+    "default_profile": "tech-news",
+    "profile_settings": {
+     "tech-news": {
+      "threshold": 8.0,
+      "topic_dedup": true
+     }
+    }
+  },
+  "digest": {
+    "max_items": 10
   },
   "display": {
     "icon_style": "emoji"
