@@ -5,265 +5,259 @@ date: 2026-08-14
 lang: zh
 ---
 
-> 从 234 条内容中筛选出 10 条重要资讯。
+> 从 184 条内容中筛选出 10 条重要资讯。
 
 ---
-
-**财经新闻**
-1. [长鑫存储市值超越腾讯，成为中国市值最高公司](#item-finance-news-1) ⭐️ 9.0/10
-2. [日本买入日元，解除危险交易](#item-finance-news-2) ⭐️ 8.0/10
-3. [中国在石油市场中取代 OPEC 的主导地位](#item-finance-news-3) ⭐️ 8.0/10
 
 **科技新闻**
-1. [OpenAI 与 Cerebras 推出 GPT-5.6 Sol Ultrafast，推理速度提升近 7 倍](#item-tech-news-1) ⭐️ 8.0/10
-2. [DeepSeek Harness 开发者预览版发布](#item-tech-news-2) ⭐️ 8.0/10
-3. [DRAM 攻击技术可绕过内存保护实现任意代码执行](#item-tech-news-3) ⭐️ 8.0/10
-4. [systemd-journald 单条日志引发大量磁盘写入](#item-tech-news-4) ⭐️ 8.0/10
-5. [Ilya 新公司 SSI 发布首个模型，聚焦持续学习](#item-tech-news-5) ⭐️ 8.0/10
-6. [DeepSeek V4 Pro 0813 发布：开放权重与峰谷定价](#item-tech-news-6) ⭐️ 8.0/10
-7. [OpenAI 发布 GPT-5.6，助力构建更高效 AI 代理](#item-tech-news-7) ⭐️ 8.0/10
+1. [GLM-5.3 发布：具备新兴网络能力的编程模型](#item-tech-news-1) ⭐️ 9.0/10
+2. [中国医生用 GPT-5.6 证明 22 年数学难题，Crouzeix 本人确认](#item-tech-news-2) ⭐️ 9.0/10
+3. [Qwen 3.8 27B 开源模型获社区好评](#item-tech-news-3) ⭐️ 8.0/10
+4. [执法黑客时代：加密普及下的暗战](#item-tech-news-4) ⭐️ 8.0/10
+5. [Linux 内核、musl libc 和 BGP 实现 IPv8 互联网草案](#item-tech-news-5) ⭐️ 8.0/10
+6. [英伟达全面投产全球首款 200G/lane CPO 以太网交换机](#item-tech-news-6) ⭐️ 8.0/10
+7. [将 Doom 渲染器编译为 210 亿参数 Transformer，无需训练](#item-tech-news-7) ⭐️ 8.0/10
+8. [小红书开源 dots3-note：280B MoE 仅 16B 激活参数](#item-tech-news-8) ⭐️ 8.0/10
+9. [苹果联手阿里自研中国专属 AI 大模型，或成首个获批外企](#item-tech-news-9) ⭐️ 8.0/10
 
----
-
-## 财经新闻
-
-<a id="item-finance-news-1"></a>
-### [长鑫存储市值超越腾讯，成为中国市值最高公司](https://www.bloomberg.com/news/articles/2026-08-13/cxmt-overtakes-tencent-to-become-most-valuable-chinese-company) ⭐️ 9.0/10
-
-长鑫存储（CXMT）市值超越腾讯，成为中国市值最高的公司。截至周四，长鑫存储市值达 5240 亿美元，而腾讯降至 5100 亿美元。长鑫存储上月在上海上市，首日暴涨 467%。
-
-telegram · zaihuapd · 8月13日 10:10
-
-**「背景」** 长鑫存储（CXMT）是一家中国存储芯片制造商，于 2026 年 7 月 27 日在上海科创板上市，募资 86 亿美元，首日股价暴涨 466%，成为当时中国内地市值最大的上市公司。
-
-**「影响」** 这一变化反映了市场对中国半导体行业的信心增强，可能吸引更多资金流入该领域，同时腾讯因加大 AI 投入股价承压，投资者需关注其后续表现。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.studioglobal.ai/zh-cn/discover/answers/search-6a7da10310551e202b1292b6">CXMT如何超越腾讯成为中国最有价值公司：5240亿美元存储芯片狂潮的内...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#CXMT`, `#Tencent`, `#market cap`, `#China`, `#semiconductor`
-
----
-
-<a id="item-finance-news-2"></a>
-### [日本买入日元，解除危险交易](https://www.economist.com/finance-and-economics/2026/08/13/when-japan-buys-yen-it-unwinds-a-dangerous-trade) ⭐️ 8.0/10
-
-日本央行通过买入日元进行干预，这标志着全球最大的套息交易开始平仓，可能对全球市场产生重大影响。
-
-rss · The Economist · 8月13日 08:49
-
-**「背景」** 套利交易是指投资者借入低利率货币（如日元）并投资于高收益资产。日本央行买入日元会推高日元汇率，迫使这些交易平仓，可能引发全球市场波动。
-
-**「影响」** 这一举措可能影响全球投资者和金融市场，因为套息交易的平仓可能导致日元升值和相关资产价格波动。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.businessinsider.com/yen-usd-us-dollar-japan-katayama-exchange-rate-jpy-intervention-2026-8">The US-Japan Yen Intervention Has Traders Glued to One Trade - Business Insider</a></li>
-
-</ul>
-</details>
-
-**标签**: `#Japan`, `#yen intervention`, `#carry trade`, `#central bank policy`, `#global markets`
-
----
-
-<a id="item-finance-news-3"></a>
-### [中国在石油市场中取代 OPEC 的主导地位](https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec) ⭐️ 8.0/10
-
-据《经济学人》报道，中国的购买力已超越 OPEC 对石油市场的影响力，标志着全球能源动态的重大转变。
-
-rss · The Economist · 8月13日 08:45
-
-**「背景」** 长期以来，石油输出国组织（OPEC）通过协调产量来影响油价，但如今中国作为全球最大原油进口国，其购买决策对市场的影响力日益增强。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.economist.com/leaders/2026/08/13/china-has-wrested-control-of-oil-markets-from-opec">China has wrested control of oil markets from OPEC</a></li>
-
-</ul>
-</details>
-
-**标签**: `#oil markets`, `#China`, `#OPEC`, `#energy policy`, `#global trade`
+**财经新闻**
+1. [SpaceX 以 600 亿美元收购 AI 编程公司 Cursor](#item-finance-news-1) ⭐️ 9.0/10
 
 ---
 
 ## 科技新闻
 
 <a id="item-tech-news-1"></a>
-### [OpenAI 与 Cerebras 推出 GPT-5.6 Sol Ultrafast，推理速度提升近 7 倍](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) ⭐️ 8.0/10
+### [GLM-5.3 发布：具备新兴网络能力的编程模型](https://z.ai/blog/glm-5.3) ⭐️ 9.0/10
 
-OpenAI 与 Cerebras 宣布合作推出 GPT-5.6 Sol Ultrafast，声称在推理速度上实现重大突破。据称，该模型在 Ultrafast 模式下仅用 11 小时 11 分钟就完成了 2,500 道 HLE（人类最后考试）问题，而 Claude Fable 5 需要 78 小时 27 分钟，速度提升近 7 倍。此外，与 Artificial Analysis 报告的输出速度相比，Ultrafast 模式比 Fable 5 快 11 倍，比 Opus 4.8 的 Fast 模式快 5 倍。这一成果标志着 AI 推理速度的显著提升，可能对实时应用和复杂推理任务产生深远影响。然而，目前尚未公布定价信息，且性能验证细节仍待明确。
+智谱 AI 发布了 GLM-5.3，该模型具备前沿编程能力和新兴的网络能力，能够自主进行安全研究和漏洞发现。据社区用户反馈，该模型在红队场景中表现出色，包括发现 WordPress 插件中的零日漏洞、实现远程代码执行（RCE）以及适配 6.8 内核漏洞利用等。此外，智谱 AI 还通过 cvd.z.ai 平台公开披露了其扫描开源软件和流行软件所发现的漏洞，其中许多已被分配 CVE 编号，且大多处于保密状态。该模型基于 GLM 5.2 进行后训练优化，目前权重尚未公开发布，预计两周后可用。
 
-hackernews · pr337h4m · 8月13日 18:10 · [社区讨论](https://news.ycombinator.com/item?id=49289844)
+hackernews · pella · 8月14日 05:19 · [社区讨论](https://news.ycombinator.com/item?id=49294997)
 
-**「背景」** OpenAI 与 Cerebras 合作推出了 GPT-5.6 Sol 的 Ultrafast 模式，这是一种新的 API 服务层级，由 Cerebras 硬件驱动，输出速度最高可达每秒 750 个 token，相比标准模式最高提速 14 倍。该模式最初仅向部分客户开放，并计划逐步扩大访问范围。Cerebras 声称在提供更高速度的同时不会牺牲模型质量，但社区评论指出，官方并未明确说明 Ultrafast 模式是否在推理质量上与标准模式完全一致。
+**「背景」** GLM-5.3 是智谱 AI（Z.ai）于 2026 年 8 月发布的开源权重模型，基于 7430 亿参数的基座模型进行后训练，重点提升编码与智能体能力，并意外涌现出网络安全能力。据 Z.ai 报告，该模型在 Terminal Bench 3.0 上创下开源模型最高分，内部编码智能体评测比 GLM-5.2 提升 50%。此前 GLM-5.2 已具备较强编码能力，而 GLM-5.3 的网络安全能力在训练扩展中增长超出预期，被定位为防御性能力。
 
-**「影响」** OpenAI 与 Cerebras 合作推出的 GPT-5.6 Sol Ultrafast 模式，将推理速度提升至最高每秒 750 个输出 token，并在 Humanity&\#x27;s Last Exam 基准测试中以约 11 小时完成 2,500 道题，相比 Claude Fable 5 的 78 小时实现近 7 倍加速，且官方声称无质量损失。该模式目前仅向特定客户开放，定价尚未公布，可能影响依赖高吞吐量推理的实时应用和成本敏感型工作负载。
+**「影响」** GLM-5.3 的发布可能显著提升 AI 辅助安全研究的效率和可及性，使更多组织能够自主发现和修复漏洞，但同时也引发了关于大规模漏洞扫描和披露政策对软件生态影响的讨论。
 
-**「社区讨论」** 社区对性能验证提出质疑，认为 OpenAI 和 Cerebras 未明确说明 Ultrafast 模式是否与标准版 Sol 在准确性上完全一致，仅提及内部数据而未提供独立验证。同时，有评论指出速度对推理质量的重要性，认为更快的迭代可能提升思考深度。此外，定价信息缺失引发猜测，可能意味着该服务成本高昂或仍在评估市场需求。
+**「社区讨论」** 社区用户对 GLM-5.3 的性能表示高度认可，认为其接近甚至超越其他前沿模型，但也有用户指出其仍落后于 Sol 和 Fable。部分用户赞赏智谱 AI 的研究风格，认为其文档更专业而非营销炒作。同时，有用户对大规模漏洞扫描的成本和披露政策提出质疑，认为这可能带来新的安全挑战。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://openai.com/index/previewing-ultrafast/">Previewing Ultrafast mode: GPT‑5.6 Sol at up to ... - OpenAI</a></li>
-<li><a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">Accelerating GPT-5.6 Sol Ultrafast with OpenAI - cerebras.ai</a></li>
-<li><a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-powers-ultrafast-mode-openais-gpt-56-sol">Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol ...</a></li>
-<li><a href="https://openai.com/index/previewing-ultrafast/">Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed</a></li>
-<li><a href="https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai">Accelerating GPT-5.6 Sol Ultrafast with OpenAI - cerebras.ai</a></li>
-<li><a href="https://investors.cerebras.ai/news-releases/news-release-details/cerebras-powers-ultrafast-mode-openais-gpt-56-sol">Cerebras Powers Ultrafast Mode for OpenAI’s GPT-5.6 Sol ...</a></li>
+<li><a href="https://explainx.ai/blog/glm-5-3-launch-cyber-defense-benchmarks-august-2026">GLM-5.3 Launch: Benchmarks, Pricing &amp; Access (Aug 2026) | explainx.ai Blog | explainx.ai</a></li>
+<li><a href="https://www.unite.ai/z-ai-launches-glm-5-3-with-frontier-coding-and-a-cyber-capability-that-outgrew-its-training/">Z.ai Launches GLM-5.3 With Frontier Coding and a Cyber Capability That Outgrew Its Training – Unite.AI</a></li>
+<li><a href="https://siliconangle.com/2026/08/14/z-ai-debuts-glm-5-3-long-horizon-coding-cybersecurity-upgrades/">Z.ai debuts GLM-5.3 with long-horizon coding, cybersecurity upgrades - SiliconANGLE</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#hardware`, `#inference`, `#OpenAI`, `#Cerebras`
+**标签**: `#AI`, `#cybersecurity`, `#coding`, `#GLM`, `#vulnerability discovery`
 
 ---
 
 <a id="item-tech-news-2"></a>
-### [DeepSeek Harness 开发者预览版发布](https://deepseek.com/harness/en/) ⭐️ 8.0/10
+### [中国医生用 GPT-5.6 证明 22 年数学难题，Crouzeix 本人确认](https://www.ithome.com/0/989/952.htm) ⭐️ 9.0/10
 
-DeepSeek 发布了其代理框架 DeepSeek Harness 的早期开发者预览版，采用 MIT 许可证，并提供了 GitHub 仓库和快速入门指南。该框架的核心特性是完整的可追溯性：所有模型可见内容（包括系统提示、推理过程、工具调用及结果、子代理调度和上下文注入）都会记录在仅追加的会话日志中，并可通过轨迹视图按来源检查，支持恢复、分叉、搜索和重放。此外，框架采用插件化架构，基于 Cordis v4，支持热加载和动态启用/禁用插件，并能回滚插件产生的状态和副作用。作者表示当前版本存在粗糙之处，并可能引入破坏性变更，欢迎反馈。
+据《南华早报》报道，北京协和医院神经外科博士后金山木利用 OpenAI 的 GPT-5.6-Sol 模型，在约 16 小时内证明了自 2004 年以来困扰数学界 22 年的 Crouzeix 猜想。美国康奈尔大学数学家 Alex Townsend 与华盛顿大学数学系教授 Anne Greenbaum 公开了与金山木的邮件往来，并确认他们以及猜想提出者、法国数学家 Michel Crouzeix 本人均已审阅论文手稿，确认证明正确无误。金山木的学术背景为地质学和临床医学，数学知识主要靠自学，他采用非常规方法，在物理断网环境下让模型自主运行，经历数万次假设与推翻后得到证明。金山木已将全部研究资料开源，包括论文、提示词、迭代手稿、Lean 4 形式化证明代码及公理审计报告。在预印本发布仅 8 天后，数学家 Emiel Lorist 和 Felix Schwenninger 于 2026 年 8 月初发布了独立证明，思路不同，且同样使用了 ChatGPT 5.6。
 
-hackernews · bjin · 8月13日 12:58 · [社区讨论](https://news.ycombinator.com/item?id=49285244)
+rss · IT HOME · 8月14日 15:08
 
-**「背景」** DeepSeek Harness 是 DeepSeek 推出的智能体开发框架，采用“一切皆插件”的架构，基于 Cordis v4 构建，支持热加载和动态启用/禁用插件。该框架目前处于开发者预览阶段，以 MIT 许可证开源，并强调会有破坏性变更。其核心特性包括可追溯的会话日志和插件系统，旨在提升智能体开发的可调试性和灵活性。
+**「背景」** Crouzeix 猜想由法国数学家 Michel Crouzeix 于 2004 年提出，核心内容是：对于任意矩阵和任意多项式函数，矩阵经函数作用后的范数不超过该函数在矩阵数值域上最大值的两倍。该猜想表述简洁但证明难度极高，2007 年 Crouzeix 本人仅证明了常数在 11.08 时成立，2017 年全球顶尖专家在美国数学研究所专题研讨会上将常数降至 2.414，此后无实质进展。金山木是北京协和医院神经外科博士后，本科为北京大学地质学专业，2020 年通过协和医学院“4+4 试点班”转入临床医学，其数学知识均为自学。
 
-**「影响」** 对于 AI 代理开发者而言，DeepSeek Harness 提供了前所未有的透明度和可调试性，可能推动代理开发工具链的标准化，但其早期预览状态和潜在的破坏性变更要求开发者谨慎评估。
-
-**「社区讨论」** 社区对可追溯性功能表示高度认可，认为这是杀手级特性，并指出美国模型通常加密或混淆追踪记录，而该框架允许完全访问。同时，有评论者深入分析了其底层 Cordis v4 插件系统的技术细节，认为其热加载和状态回滚能力具有创新性，但也有开发者对“一切皆插件”的架构表示疲劳，担忧过度复杂化。
+**「影响」** 这一突破展示了 AI 在数学研究中的实际能力，可能加速 AI 辅助证明的接受度，并对数学研究方法和工具链产生深远影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.deepseek.com/harness/en/">DeepSeek Harness developer preview: Everything is a plugin</a></li>
-<li><a href="https://github.com/deepseek-ai/deepseek-harness">GitHub - deepseek-ai/deepseek-harness: DeepSeek Harness ...</a></li>
+<li><a href="https://www.nationpress.com/sciencetech/surgeon-cracks-20-year-maths-problem-with-gpt">Beijing surgeon solves 20-year-old Crouzeix conjecture using ...</a></li>
+<li><a href="https://github.com/jinshanmu/CrouzeixConjecture">GitHub - jinshanmu/CrouzeixConjecture: Research draft of a ...</a></li>
+<li><a href="https://alextownsend.net/essays/SIAMNews_CrouzeixConjecture.pdf">The Neurosurgery Resident Who Proved Crouzeix’s Conjecture</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#DeepSeek`, `#developer tools`, `#open source`, `#agent harness`
+**标签**: `#AI-assisted proof`, `#Crouzeix conjecture`, `#GPT-5.6`, `#mathematics`, `#OpenAI`
 
 ---
 
 <a id="item-tech-news-3"></a>
-### [DRAM 攻击技术可绕过内存保护实现任意代码执行](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) ⭐️ 8.0/10
+### [Qwen 3.8 27B 开源模型获社区好评](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) ⭐️ 8.0/10
 
-安全研究员 Christopher Domas 发布了一项名为“Spaghettifying DRAM”的新技术，通过操纵 DRAM 内存控制器，能够绕过硬件级内存保护并实现任意代码执行。该技术主要针对 AMD Jaguar 架构（2013 年发布），并已在 GitHub 上公开了相关代码和文档。攻击者需要先获得 ring 0 权限，但一旦成功，就能访问通常被隐藏的“负环”特权区域，从而完全控制系统。这一发现凸显了现代 DRAM 接口的复杂性带来的安全风险，并可能对游戏机等封闭平台的安全构成威胁。目前尚不清楚该攻击是否影响更新的 CPU 架构，如 Zen 3。
+Qwen 3.8 27B 是一个新发布的开源 AI 模型，因其推理能力和输出质量而受到社区关注。用户报告称，该模型是继 Gemma 4 之后第二个能够正确通过其私有基准测试的本地模型，尽管它消耗了 5 倍的 token 和 12 分 30 秒（启用 MTP）才完成推理。该模型在显存使用效率上不如 Gemma 4 或 Glimmer，但它在推理时表现出更显式的思考过程。社区讨论还强调了该模型在笔记本电脑上的出色表现，以及它与其他开源模型（如 GLM 5.3 和 Deepseek）一起，可能预示着前沿 AI 能力的商品化，对 OpenAI 和 Anthropic 等公司构成潜在挑战。
 
-hackernews · Lobsters · 8月13日 14:17 · [社区讨论](https://news.ycombinator.com/item?id=49286341)
+hackernews · erdaltoprak · 8月14日 15:00 · [社区讨论](https://news.ycombinator.com/item?id=49299605)
 
-**「背景」** DRAM（动态随机存取存储器）是计算机中用于临时存储数据的内存类型，其工作原理基于电容存储电荷，需要定期刷新以保持数据。现代 CPU 通过内存控制器与 DRAM 交互，而 DRAM 的物理地址与逻辑地址之间往往存在一种称为“DRAM scrambling”的映射机制，旨在分散访问模式以提高性能或增强安全性。然而，这种映射机制本身可能成为攻击面。安全研究员 Christopher Domas（@xoreaxeaxeax）在 GitHub 上发布了名为“skitter-creek-bath-salts”的研究项目，声称通过利用 DRAM scrambling 的漏洞，可以绕过 CPU 的硬件保护机制，实现任意代码执行，从而解锁 CPU 的“一切”功能。该项目计划在 Black Hat 2026 会议上进行展示。
+**「背景」** Qwen 3.8 27B 是阿里巴巴旗下 Qwen 团队于 2026 年 8 月 14 日发布的开源大语言模型，参数规模为 27B，上下文窗口为 262k。该模型与 Qwen 3.8-Max 一同宣布，但 Qwen 3.8 27B 的开放权重版本更受本地 AI 社区关注，因为它可以在消费级硬件上运行。此前，Qwen 系列模型（如 Qwen 3.6）已在开源社区中建立了良好声誉，而 Qwen 3.8 27B 的发布被视为本地 AI 领域的重要进展。
 
-**「影响」** 对于使用 AMD Jaguar 架构的系统（如某些游戏机和嵌入式设备），一旦攻击者获得 ring 0 权限，该技术可使其完全控制硬件，绕过所有内存保护机制。对于其他 CPU 架构，影响尚不明确，但该研究可能促使硬件厂商重新审视内存控制器的安全性。
+**「影响」** 对于在本地运行模型的开发者和研究者，Qwen 3.8 27B 提供了又一个高性能开源选择，其推理能力可与 Gemma 4 相媲美，但显存效率较低，可能限制其在资源受限环境中的使用。
 
-**「社区讨论」** 社区对该研究反应热烈，有用户称赞 Christopher Domas 的演讲能力，并期待其 Black Hat 演讲。也有用户指出现代 DRAM 接口的复杂性是攻击面扩大的原因，并担心 Xbox 和 PlayStation 等封闭平台的安全性。此外，有用户质疑该攻击是否适用于更新的 CPU 架构，因为目前仅确认 AMD Jaguar 受影响。
+**「社区讨论」** 社区普遍对该模型的性能表示赞赏，有用户称其为“最好的鹈鹕”绘图示例，并指出其推理痕迹与之前版本相比有显著变化，但有人怀疑这种独特的思考模式可能影响 MTP 预测效率。此外，有用户提到 Jinja 模板存在问题，建议使用特定工具来减少或关闭相关功能。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Dynamic_random-access_memory">Dynamic random-access memory - Wikipedia</a></li>
-<li><a href="https://github.com/xoreaxeaxeax/skitter-creek-bath-salts">GitHub - xoreaxeaxeax/skitter-creek-bath-salts: Unlocking _everything_ on the CPU with DRAM scrambling · GitHub</a></li>
-<li><a href="https://github.com/xoreaxeaxeax">xoreaxeaxeax (domas) · GitHub</a></li>
+<li><a href="https://medium.com/@rosgluk/qwen-3-8-27b-is-coming-and-it-could-be-the-most-important-local-ai-release-of-2026-c1cf381d5292">Qwen 3.8 27B Is Coming - and It Could Be the Most Important Local AI Release of 2026 | by Rost Glukhov | Aug, 2026 | Medium</a></li>
+<li><a href="https://www.yottalabs.ai/post/qwen-3-8-27b-specs-hardware-requirements-how-to-run-2026">Qwen 3.8 27B: Specs, Hardware Requirements, and How to Run It (2026) | Yotta Labs</a></li>
+<li><a href="https://aireleasetracker.com/model/qwen/qwen3.8-27b">Qwen3.8-27B — Benchmarks, Specs &amp; Release Date</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#hardware`, `#DRAM`, `#exploit`, `#reverse engineering`
+**标签**: `#AI`, `#Open Source`, `#Model Release`, `#LLM`, `#Benchmark`
 
 ---
 
 <a id="item-tech-news-4"></a>
-### [systemd-journald 单条日志引发大量磁盘写入](https://github.com/systemd/systemd/issues/40262) ⭐️ 8.0/10
+### [执法黑客时代：加密普及下的暗战](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) ⭐️ 8.0/10
 
-systemd 项目的一个 GitHub issue（\#40262）报告称，由于 journald 的设计，单条日志行在 ext4 文件系统上可导致超过 49KB 的磁盘写入，在 btrfs 上则超过 110KB。该问题凸显了 journald 在日志存储和索引方面的性能缺陷，引发了关于其设计取舍和可用性的社区讨论。具体而言，journald 的日志文件格式采用仅追加写入和 mmap 访问，并伴随元数据更新，这可能导致写入放大。社区评论指出，journald 难以有效过滤日志，只能按严重级别限制或转发至 rsyslog 等外部工具，且无法针对单个标识符截断日志。此外，有评论认为 journald 是 systemd 生态中最差的部分，建议仅将其用作路由器而不存储日志，因为其索引系统缓慢且对冗长子系统缺乏控制。
+一篇来自知名密码学博客的分析文章指出，随着加密技术的普及，执法机构正从传统监听转向“执法黑客”手段，即通过入侵设备或利用软件漏洞获取信息。文章认为，这一转变对软件安全和隐私具有深远影响，并预测可利用的漏洞数量可能很快达到上限，而人工智能可能改变软件安全格局。作者强调，这并非呼吁专家采取复杂行动，而是提醒关注这一趋势的后果。文章引发了关于漏洞数量、AI 对软件质量影响以及执法权限边界的讨论。
 
-hackernews · ValdikSS · 8月13日 18:41 · [社区讨论](https://news.ycombinator.com/item?id=49290215)
+hackernews · vslira · 8月14日 20:52 · [社区讨论](https://news.ycombinator.com/item?id=49304447)
 
-**「背景」** systemd-journald 是 Linux 系统上负责收集和存储日志的守护进程，其日志文件格式设计为仅追加写入，以确保使用 mmap 访问时的健壮性和原子性。然而，这种设计导致每条日志记录在写入时会产生额外的元数据和索引开销，从而造成比日志内容本身大得多的磁盘写入量。
+**「背景」** “Going Dark”一词源于 2014 年时任 FBI 局长 James Comey 发起的倡议，旨在讨论加密技术如何阻碍执法机构获取通信内容，并寻求让服务提供商配合执法的方法。随着端到端加密的普及，执法部门传统的监听手段失效，转而发展“执法黑客”技术，即通过入侵设备或利用软件漏洞获取信息。这一背景有助于理解当前关于加密、隐私与执法需求之间平衡的争论。
 
-**「影响」** 对于依赖 systemd-journald 的 Linux 系统管理员和开发者，该问题意味着高日志量场景下可能产生显著的磁盘 I/O 和存储消耗，尤其是在 btrfs 文件系统上。社区建议将 journald 仅作为日志路由器，并采用外部日志系统（如 rsyslog）进行过滤和存储，以规避其性能瓶颈。
+**「影响」** 对于依赖加密保护数据的用户和开发者而言，执法黑客手段的兴起意味着设备安全漏洞可能成为执法工具，从而削弱加密提供的隐私保障，并促使软件行业重新评估漏洞披露和修复的优先级。
 
-**「社区讨论」** 社区评论普遍批评 journald 的性能和可用性，指出其过滤能力有限，只能按严重级别限制或转发至外部工具，且无法针对单个标识符截断日志。有用户提到，某些驱动（如 amdgpu）在恢复挂起后可能每秒记录多次日志，导致日志量激增，而过滤这些日志非常困难。此外，有评论认为 journald 的索引系统缓慢，不如现代 grep 工具（如 ag 或 rg）高效，建议仅将其用作路由器而不存储日志。
+**「社区讨论」** 评论者中，有人对“漏洞数量将达上限”的观点表示怀疑，认为 AI 辅助开发可能反而增加软件缺陷；也有人对比了执法机构的高技术手段与普通企业糟糕的安全实践，指出安全鸿沟的存在。此外，有评论者提醒，电话监听的历史远早于计算机时代，执法黑客并非全新现象。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/systemd/systemd/issues/15292">systemd-journald: excessive and hugely abnormal disk IO ...</a></li>
+<li><a href="https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/">Everything is about to “go dark” – A Few Thoughts on ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#systemd`, `#journald`, `#linux`, `#performance`, `#logging`
+**标签**: `#cryptography`, `#law-enforcement`, `#security`, `#privacy`, `#encryption`
 
 ---
 
 <a id="item-tech-news-5"></a>
-### [Ilya 新公司 SSI 发布首个模型，聚焦持续学习](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&amp;mid=2247912028&amp;idx=1&amp;sn=6a4b6d6ad9bc0348547d90eb8818b1d8) ⭐️ 8.0/10
+### [Linux 内核、musl libc 和 BGP 实现 IPv8 互联网草案](https://goonhost.rocks/blog/implementing-ipv8-internet-draft) ⭐️ 8.0/10
 
-Ilya Sutskever 的新创公司 SSI（Safe Superintelligence Inc.）发布了其首个模型，该模型专注于持续学习（continual learning）领域。这一发布标志着这位 OpenAI 前首席科学家在离开后首次公开其技术方向，旨在解决 AI 模型在部署后无法持续更新知识的问题。目前公开的细节有限，但持续学习被视为实现通用人工智能（AGI）的关键能力之一。该模型的发布可能对 AI 研究和应用产生重要影响，尤其是在需要模型适应新数据和环境的场景中。
+一个团队在 Linux 内核、musl libc 和 BGP 中实现了 IPv8 互联网草案，这是一项重大的系统工程成就。该实现展示了在核心网络基础设施中部署新协议的能力，可能影响未来协议的采用。尽管 IPv8 仍是一个互联网草案，尚未广泛部署，但这项工作为评估其可行性提供了实际基础。具体的技术细节和性能数据未在源内容中提供。
 
-rss · 量子位 · 8月13日 07:38
+rss · Lobsters · 8月14日 19:05
 
-**「背景」** Ilya Sutskever 是 OpenAI 的联合创始人兼前首席科学家，于 2024 年离开 OpenAI 后，与 Daniel Gross（前苹果 AI 负责人）和 Daniel Levy（前 OpenAI 研究员）共同创立了 Safe Superintelligence Inc.（SSI），一家专注于安全超级智能的以色列-美国人工智能公司。Sutskever 曾公开表示“缩放时代”已经结束，预训练扩展面临瓶颈，未来 AI 研究将转向新的方向，而 SSI 的使命是开发安全且能持续学习的模型。
+**「背景」** IPv8（Internet Protocol Version 8）是一个由 IETF 互联网领域工作组提出的互联网协议草案（draft-thain-ipv8），旨在构建一个可管理的网络协议套件，通过 OAuth2 JWT 令牌授权网络中的每个可管理元素，并引入 64 位 ASN 前缀地址、将 IPv4 作为其真子集，以及一个整合 DHCP、DNS、认证和出口控制的 Zone Server。该草案目前仍处于标准跟踪状态，尚未广泛部署。
 
-**「影响」** 对于 AI 研究者和开发者而言，SSI 的首个模型可能推动持续学习技术的实用化，但具体影响尚待更多技术细节和性能数据的披露。
+**「影响」** 对于网络研究人员和协议开发者，这一实现提供了 IPv8 在真实系统上运行的实证，有助于评估其设计并推动标准化进程。然而，由于 IPv8 尚未成为标准且部署有限，其短期影响可能局限于实验和学术领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Safe_Superintelligence_Inc.">Safe Superintelligence Inc. - Wikipedia</a></li>
-<li><a href="https://langcopilot.com/posts/2025-11-26-ilya-sutskever-the-ai-age-scaling">Ilya Sutskever : The AI &#x27;Age of Scaling&#x27; Has Ended — Dawn of the...</a></li>
+<li><a href="https://www.ietf.org/archive/id/draft-thain-ipv8-00.html">Internet Protocol Version 8 (IPv8) - ietf.org</a></li>
+<li><a href="https://datatracker.ietf.org/doc/draft-thain-ipv8/">draft-thain-ipv8-02 - Internet Protocol Version 8 (IPv8)</a></li>
+<li><a href="https://transitai.app/blog/ipv8-draft-zone-server-math/">IPv8: The Draft of a New Internet — Transit AI</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI`, `#machine-learning`, `#continual-learning`, `#Ilya-Sutskever`, `#SSI`
+**标签**: `#IPv8`, `#Linux kernel`, `#networking`, `#BGP`, `#systems programming`
 
 ---
 
 <a id="item-tech-news-6"></a>
-### [DeepSeek V4 Pro 0813 发布：开放权重与峰谷定价](https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/) ⭐️ 8.0/10
+### [英伟达全面投产全球首款 200G/lane CPO 以太网交换机](https://www.ithome.com/0/989/970.htm) ⭐️ 8.0/10
 
-DeepSeek V4 Pro 0813 已通过 API 提供，并同步上线 APP、网页端和 API，模型名为 deepseek-v4-pro。该模型增强了 Agent 能力，并原生支持 Responses API 格式，适配 Codex。其开放权重已在 Hugging Face 上发布，参数规模达 1.7T，文件大小约 893 GB。此外，V4-Pro 和 V4-Flash 的思考模式新增 low、high、max 三档，API 将实行峰谷定价，新价格于 2026 年 8 月 17 日 0 时生效，闲时价格为高峰时段的一半。目前 DeepSeek 官方尚未发布正式公告，相关信息主要来自社区传播。
+英伟达于 8 月 14 日宣布全面投产 Spectrum-X 以太网光子交换机，这是全球首款量产的 200G/lane 共封装光器件（CPO）以太网交换机系统，主要面向大规模 AI 训练与推理集群。该交换机将光学引擎与交换芯片封装在同一模块内，并采用外置激光源模块统一供光，所需激光器数量仅为传统方案的 1/4。相比传统可插拔光模块，英伟达称功耗降低至 1/5，AI 应用无中断运行时间延长 5 倍，平均事件间隔时间提高 10 倍。硬件方面，SN6810 在 2U 液冷机箱内提供 128 个 800Gb/s 端口，总交换能力 102.4Tb/s；SN6800 在 5U 系统中堆叠 4 颗 ASIC，提供 409.6Tb/s 交换能力，支持 512 个 800Gb/s 端口或超过 2000 个 200Gb/s 端口。制造由台积电负责硅光子技术，SPIL 负责封装测试，Lumentum 与 TFC 供应激光器，富士康开发整机系统，英伟达已完成最终测试并启动全面生产。
 
-rss · Simon Willison · 8月12日 23:59
+rss · IT HOME · 8月14日 22:53
 
-**「背景」** DeepSeek V4 Pro 0813 是 DeepSeek 于 2026 年 8 月 12 日发布的旗舰模型正式版，结束了近四个月的预览期。该模型通过 API 提供，并在 Hugging Face 上开放权重，参数规模为 1.7T（约 893 GB）。此前 DeepSeek 已发布过 V4 Pro 和 V4 Flash 等模型，此次更新增强了 Agent 能力，并原生支持 Responses API 格式，适配 Codex。
+**「背景」** 共封装光器件（CPO）是一种将光学引擎与交换芯片集成在同一封装内的技术，旨在缩短电信号传输路径，降低功耗和延迟。传统可插拔光模块方案中，光模块独立于交换机面板，电光转换距离较远，功耗和故障点较多。英伟达此前已推出基于 InfiniBand 的 CPO 产品，而 Spectrum-X 是其首款以太网 CPO 交换机，标志着 CPO 技术在以太网领域的量产应用。
 
-**「影响」** 对于使用 DeepSeek API 的开发者，峰谷定价将降低闲时调用成本，而新增的思考模式档位和 Responses API 支持可能提升 Agent 相关应用的开发体验。开放权重（1.7T 参数）的发布为机器学习社区提供了进一步研究和部署的机会。
+**「影响」** 该产品的量产将显著降低 AI 集群的网络功耗和故障率，提升运行稳定性，对大规模 AI 基础设施的建设和运营成本产生直接影响。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://aireleasetracker.com/model/deepseek/deepseek-v4-pro-0813">DeepSeek-V4-Pro-0813 — Benchmarks, Specs &amp; Release Date</a></li>
-<li><a href="https://byteiota.com/deepseek-v4-pro-0813-is-live-and-prices-are-about-to-jump/">DeepSeek V4 Pro 0813 Is Live — And Prices Are About to Jump</a></li>
-<li><a href="https://www.unite.ai/deepseek-ships-v4-pro-as-its-flagship-model-leaves-preview/">DeepSeek Ships V4 Pro as Its Flagship Model Leaves ...</a></li>
+<li><a href="https://www.lightcounting.com/research-note/march-2025-nvidias-cpo-is-the-first-step-in-a-long-journey-395">LightCounting :: March 2025 Nvidia &#x27;s CPO is the First Step in a Long...</a></li>
+<li><a href="https://www.linkedin.com/pulse/co-packaged-optics-cpos-deep-dive-sharada-yeluri-e0hyc">Co-Packaged Optics ( CPOs ) - A Deep Dive</a></li>
 
 </ul>
 </details>
 
-**标签**: `#deepseek`, `#large language models`, `#open weights`, `#AI models`, `#machine learning`
+**标签**: `#NVIDIA`, `#CPO`, `#Ethernet switch`, `#AI infrastructure`, `#silicon photonics`
 
 ---
 
 <a id="item-tech-news-7"></a>
-### [OpenAI 发布 GPT-5.6，助力构建更高效 AI 代理](https://openai.com/index/builders-guide-to-gpt-5-6) ⭐️ 8.0/10
+### [将 Doom 渲染器编译为 210 亿参数 Transformer，无需训练](https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/) ⭐️ 8.0/10
 
-OpenAI 宣布推出 GPT-5.6，旨在帮助开发者构建更快、更具成本效益的 AI 代理。该版本引入了新的 Responses API 功能，并强调了更智能的模型选择策略。官方博客以初创公司为例，展示了如何利用这些新能力优化代理性能。此次发布是 OpenAI 在 AI 模型领域的一次重要更新，对依赖大型语言模型的开发者和企业具有潜在影响。
+一位开发者（Reddit 用户 notforrob）编写了一个编译器，将 Doom 的渲染算法转换为一个 210 亿参数的 Transformer 检查点，该检查点无需训练即可生成像素绘制命令来渲染游戏帧。生成的检查点可作为标准 Hugging Face 检查点加载，无需 trust\_remote\_code。主机程序仅 43 行 Python 代码，用于加载检查点、生成渲染并解析输出为 E1M1 帧。每帧需要 3,614 个 token 的提示和 53,747 个生成 token，在 B200 上耗时约 40 分钟，而原版 Doom 在 486 上可达 35 FPS，此实现约为每天 35 帧。项目提供了完整的代码、权重和文档。
 
-rss · OpenAI Blog · 8月13日 11:00
+reddit · r/MachineLearning · /u/notforrob · 8月14日 15:50
 
-**「背景」** OpenAI 于 2026 年 7 月 9 日发布了 GPT-5.6，这是其最新、最强大的模型，此前因美国政府以国家安全为由要求推迟发布。此次发布还引入了新的命名体系：&quot;5.6&quot; 代表代际，而 Sol、Terra 和 Luna 则代表可独立演进的能力层级。该模型旨在帮助开发者构建更快、更具成本效益的 AI 代理，并新增了 Responses API 功能。
+**「背景」** Transformer 通常通过大量数据训练来学习任务，而此项目采用了一种不同的方法：使用编译器将计算图直接转换为 Transformer 权重，从而将算法编码到模型中。Doom 的渲染器是一个经典的实时 3D 渲染算法，通过将其移植到兼容的计算图中，该编译器能够生成一个无需训练即可执行渲染任务的 Transformer。
 
-**「影响」** 对于使用 OpenAI API 构建 AI 代理的开发者，GPT-5.6 可能带来更低的运行成本和更高的响应速度，但具体性能提升和定价细节尚未公布。
+**「影响」** 这一成果展示了将真实世界算法编译为 Transformer 权重的可行性，为模型可解释性和程序合成提供了新思路，可能影响未来将传统代码嵌入神经网络的方法。
+
+**标签**: `#transformer`, `#compilation`, `#Doom`, `#neural networks`, `#program synthesis`
+
+---
+
+<a id="item-tech-news-8"></a>
+### [小红书开源 dots3-note：280B MoE 仅 16B 激活参数](https://x.com/dotsstudioai/status/2088083314855018521) ⭐️ 8.0/10
+
+小红书 dots 实验室开源了 dots3-note preview，这是 dots3 系列首个开放权重模型。该模型总参数达 280B，但每次推理仅激活 16B 参数，支持 512K 上下文，并能处理文字、图片、视频和音频等多模态输入。模型引入了新的强化学习方法 TEMPO，通过自批判和测试时价值估计来训练长程智能体。权重已在 Hugging Face 上开源，同时发布了 VibeSearchBench 和 VibeLifeBench 两个真实场景智能体基准。此次开源为 AI 社区提供了高效的大规模 MoE 模型，并推动了多模态和强化学习领域的发展。
+
+telegram · zaihuapd · 8月14日 08:27
+
+**「背景」** dots3-note preview 是小红书 dots 实验室开源的 dots3 系列首个开放权重模型，采用混合专家（MoE）架构，总参数 280B，激活参数 16B，支持最长 512K token 的上下文，能够处理文本、图像、视频和音频输入并生成文本输出。该模型引入了名为 TEMPO 的强化学习方法，通过自批判和测试时价值估计来训练长程智能体，并同步发布了 VibeSearchBench 和 VibeLifeBench 两个面向真实场景的智能体基准。
+
+**「影响」** 该开源模型为 AI 开发者和研究者提供了一个高效的大规模 MoE 模型，其 16B 激活参数和 512K 上下文支持，使得在有限计算资源下处理长序列多模态任务成为可能，同时 TEMPO 方法和新基准为智能体训练与评估提供了新工具。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.thenews.pk/story/1424754-openai-to-unveil-gpt56-on-thursday-after-delaying-launch">OpenAI to unveil GPT - 5 . 6 on Thursday after delaying launch</a></li>
-<li><a href="https://kie.ai/blog/codex-chatgpt-work-gpt-5-6-analysis">Codex + ChatGPT + GPT - 5 . 6 : OpenAI &#x27;s July 9 Release Deep Dive</a></li>
-<li><a href="https://about.chat/article/gpt-5-6-launch-chatgpt-market-share-2026">OpenAI Just Launched GPT - 5 . 6 . It&#x27;s Racing to Stop the... | About.chat</a></li>
+<li><a href="https://github.com/studio-dots-ai/dots3-note-prev">GitHub - studio-dots-ai/dots3-note-prev: dots3 note preview</a></li>
+<li><a href="https://eu.36kr.com/en/p/3938759517896072">Xiaohongshu Open-Sourced Dots3-Note: The Same-Series Model ...</a></li>
+<li><a href="https://huggingface.co/dots-studio/dots3-note-prev">dots-studio/dots3-note-prev · Hugging Face</a></li>
 
 </ul>
 </details>
 
-**标签**: `#OpenAI`, `#GPT-5.6`, `#AI agents`, `#Responses API`, `#model selection`
+**标签**: `#open-source`, `#MoE`, `#multimodal`, `#reinforcement-learning`, `#benchmarks`
+
+---
+
+<a id="item-tech-news-9"></a>
+### [苹果联手阿里自研中国专属 AI 大模型，或成首个获批外企](https://www.reuters.com/business/retail-consumer/apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-2026-08-14/) ⭐️ 8.0/10
+
+据路透社报道，苹果已专门为中国市场训练一款大语言模型，并获得了阿里巴巴的支持，改变了此前依赖第三方模型的策略。苹果的生成式 AI 服务已在上月获得中国网信办备案，Apple Intelligence 预计将在未来数月随 iOS 更新在华上线。若落地，苹果可能成为首个获北京批准在华提供自有 AI 模型的外国公司。此举将使苹果更好地掌控中国市场的 AI 体验，并具有重要的战略意义。
+
+telegram · zaihuapd · 8月14日 14:47
+
+**「背景」** 苹果此前计划在中国市场依赖本地合作伙伴提供的 AI 技术，而非自研模型。此次与阿里巴巴合作训练专为中国市场定制的大语言模型，标志着苹果战略的转变，旨在更好地掌控其在中国设备生态系统中的 AI 体验。这一合作发生在中美科技紧张局势加剧的背景下，显得尤为突出。
+
+**「影响」** 此举可能使苹果成为首个在中国获批提供自有 AI 模型的外国公司，从而增强其在中国市场的竞争力，并对其他外国科技公司进入中国 AI 市场产生示范效应。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.remio.ai/post/alibaba-apple-ai-partnership-gives-apple-more-control-in-china">Alibaba Apple AI Partnership Gives Apple More Control in China</a></li>
+<li><a href="https://clashreport.com/world/articles/apple-develops-china-specific-ai-model-in-partnership-with-alibaba-qfsiu4onya">Apple Develops China -Specific AI Model in Partnership With Alibaba</a></li>
+<li><a href="https://aichief.com/news/apple-taps-alibaba-for-china-ai-model-training/">Apple Taps Alibaba for China AI Model Training</a></li>
+
+</ul>
+</details>
+
+**标签**: `#Apple`, `#AI`, `#China`, `#Alibaba`, `#Regulation`
+
+---
+
+## 财经新闻
+
+<a id="item-finance-news-1"></a>
+### [SpaceX 以 600 亿美元收购 AI 编程公司 Cursor](https://www.ithome.com/0/989/944.htm) ⭐️ 9.0/10
+
+SpaceX 完成了对 AI 编程初创公司 Cursor 的 600 亿美元（约合 4,054.22 亿元人民币）收购，这是科技行业史上最大收购之一。监管文件显示，收购于当地时间 8 月 14 日正式生效，SpaceX 两个月前已宣布达成收购协议。
+
+rss · IT HOME · 8月14日 14:34
+
+**「背景」** SpaceX 于两个月前宣布与 Cursor 达成收购协议，此次交易以全股票形式完成，是科技行业史上规模最大的收购之一。Cursor 是一家 AI 编程初创公司，其 AI 编程助手可帮助程序员提高代码编写和调试效率。
+
+**「影响」** 此次收购将增强 SpaceX 在 AI 编程领域的竞争力，Cursor 团队将获得 SpaceX 的先进 AI 芯片和全球最大 GPU 集群的算力支持，有助于开发更强大、成本更低的模型。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/sandycarter/2026/06/16/spacex-buys-cursor-in-largest-startup-acquisition-ever-at-60-billion/">SpaceX Buys Cursor In Largest Startup Acquisition Ever At $60 ...</a></li>
+<li><a href="https://www.cnbc.com/2026/06/16/spacex-spcx-cursor-acquisition-ipo.html">SpaceX to acquire the AI coding startup Cursor for $60 billion</a></li>
+
+</ul>
+</details>
+
+**标签**: `#SpaceX`, `#Cursor`, `#acquisition`, `#AI`, `#tech industry`
 
 ---
